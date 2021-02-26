@@ -1,0 +1,858 @@
+,title,text,url,created_utc,score,up,down
+0,"Coronavirus Megathread Update (January, 2021)","# Overview
+
+Last March, we posted a [megathread](https://www.reddit.com/r/personalfinance/comments/fhrfqo/coronavirus_megathread_resources_discussion_and/) with tons of information about Coronavirus-related issues, and in September a [second megathread](https://www.reddit.com/r/personalfinance/comments/i8mww4/coronavirus_megathread_update_resources/) was posted with additional information on updates to payroll tax deferrals, student loan interest waiver, and unemployment. Given the ongoing nature of the pandemic and recent U.S. governmental actions, we are posting a third installment of this megathread. **Please keep in mind that politics and political discussions are still not allowed here.**
+
+# Stimulus Payments (updated Feb 13, 2021)
+
+If you have not received the first or second stimulus payments at this point and believe you are eligible, or are eligible for more than you have already received based on your 2020 tax return, you will have to file your 2020 tax return and claim the missing amount as the [Recovery Rebate Credit](https://www.irs.gov/newsroom/recovery-rebate-credit). Common cases where this applies:
+
+*I believe I was eligible for the first and second stimulus but haven't received it, and still get an error when checking the Get My Payment portal
+
+* I was a dependent in 2019 (and/or 2018 if your 2019 was not yet filed for the first stimulus), or mistakenly indicated that I could be claimed as a dependent, but cannot be claimed as a dependent for 2020 (Note: You don't just decide if you're a dependent or not, verify if you are eligible to be claimed as one [as defined by the IRS](https://www.irs.gov/publications/p501#en_US_2019_publink1000196863).)
+
+* I had a child in 2020 and am now eligible for the additional amount for a qualifying dependent
+
+You can check if you are eligible with the [IRS eligibility FAQs](https://www.irs.gov/newsroom/economic-impact-payment-information-center-topic-a-eip-eligibility). Non-dependent individuals were eligible for $1200 for the first stimulus and $600 for the second stimulus if your AGI (Adjusted Gross Income) was below $75,000. For married couples filing jointly, it is $2,400 for the first stimulus and $1,200 for the second stimulus if your joint AGI is below $150,000. Taxpayers with dependent qualifying children will receive $500 for the first stimulus and $600 for the second stimulus per qualifying child (16 or younger, the rules are based on the child tax credit).
+
+If your AGI is above the cutoff amounts noted above, your stimulus payment will be reduced by 5% of the difference between your AGI and the income threshold. For example, if you are single and without kids, the potential maximum amount is completely phased out once your income hits $99,000 for the first stimulus and $87,000 for the second stimulus. If you are married with two young children then the maximum payment is completely phased out once your joint income hits $218,000 for the first stimulus and $174,000 for the second stimulus.
+
+**The recovery rebate credit is determined based on the information on your 2020 tax return**, you can see the amount you’re being credited directly on your Form 1040, Line 30 of your prepared return before you file. Any of the online tax services can handle this tax credit. If you have questions about which tax software to use, there is a [Tax Filing Software Megathread](https://old.reddit.com/r/personalfinance/comments/kz613i/tax_filing_software_megathread_a_comprehensive/) with more information.
+
+Some people have reported getting the second stimulus payment later than expected, so it’s recommended to double check the status of your stimulus payments on the [Get My Payment portal](https://www.irs.gov/coronavirus/get-my-payment) before filing your tax return. 
+
+### **FAQs:**
+
+* **Q** I filed my 2020 tax return already to claim the second stimulus payment I hadn’t yet received, then received a check in the mail for the missing amount. What do I do?
+
+* **A**  You'll likely have to wait until your return is processed, and then file an amended return, to correct this issue.
+
+* **Q** I don’t file tax returns because I earn below the reporting threshold or don’t have any income. How do I get the recovery rebate credit?
+
+* **A**  You can file a tax return without income. Include any income you do have, even if it is below the reporting threshold, even income from a savings account can be included. Otherwise you may need to add in $1 in interest income in order for the online tax services to be able to handle processing the return. This is essentially what the Non-Filer’s Tool that was open last year did for you.
+
+* **Q** I am eligible for both the first and second and stimulus based on my 2018 and/or 2019 tax return, but will not be eligible based on my 2020 tax return. If I never received it, is there anything I can do to get the recovery rebate credit?
+
+* **A** No, the recovery rebate credit is ultimately a 2020 tax credit. The information provided on your 2020 tax return is what is being used to determine your eligibility, your previous return information does not matter at this point.
+
+* **Q** I am eligible for both the first and second and stimulus based on my 2018 and/or 2019 tax return, but will not be eligible based on my 2020 tax return. Will I need to pay back what I received?
+
+* **A** No, there was no information provided in the bills requiring payments to be returned if eligibility changes between the 2018/2019 and 2020 tax years. This is also noted in the [IRS FAQs](https://www.irs.gov/newsroom/economic-impact-payment-information-center-topic-j-reconciling-on-your-2020-tax-return).
+
+* **Q** The [Get My Payment](https://www.irs.gov/coronavirus/get-my-payment) portal says the payment was already sent and/or I received Notice 1444 in the mail saying my stimulus was sent, however I never actually received it. What do I do?
+
+* **A** See the IRS page on [Payment Issued but Lost, Stolen, Destroyed or Not Received](https://www.irs.gov/newsroom/economic-impact-payment-information-center-topic-f-payment-issued-but-lost-stolen-destroyed-or-not-received) for guidance on starting a Payment Trace
+
+The IRS has an extensive list of [Economic Impact Payment FAQs](https://www.irs.gov/coronavirus/economic-impact-payment-information-center) with more information.
+
+Be aware of potential scams related to stimulus payments or other coronavirus relief packages. CNBC has a helpful article with examples of [common stimulus scams](https://www.cnbc.com/2020/12/29/stimulus-check-scams-here-are-red-flags-to-watch-for.html).
+
+At this time, [a third stimulus has been proposed](https://www.kiplinger.com/taxes/602024/second-stimulus-check-update-senate-kills-2000-payments), but has not been officially passed. If that changes we will update this information to reflect that. **Until then, there is no additional information to provide regarding the criteria for a potential third stimulus or how the payments may or may not be handled.**
+
+# Payroll Tax Deferral
+
+Payroll taxes consist of two related taxes: Social Security (6.2% of wages) and Medicare (1.45% of wages). Both employees and employers pay these taxes (i.e., for every $1 of social security taxes you pay, your employer also pays $1). Only the Social Security portion of payroll taxes may be deferred right now, not Medicare.
+
+The Secretary of the Treasury has been [directed](https://www.whitehouse.gov/presidential-actions/memorandum-deferring-payroll-tax-obligations-light-ongoing-covid-19-disaster/) to defer the collection of Social Security taxes on those making a gross income of less than $104,000 / year ($4,000 or less per bi-weekly paycheck) starting September 1.
+
+Implementing seems to be optional by employers and many employers have decided to not implement this.
+
+The IRS had issued Notice 2020-65 indicating that taxes deferred must be withheld and paid between January 1, 2021 and April 30, 2021, or interest and penalties will start accruing on May 1, 2021. **The window to payback the deferred taxes has been extended under the new stimulus bill to December 31, 2021. Deferred taxes must be paid by January 1, 2022 or interest and penalties will start accruing.** 
+
+See the [previous megathread](https://www.reddit.com/r/personalfinance/comments/i8mww4/coronavirus_megathread_update_resources/) for FAQs regarding the payroll tax deferral 
+
+# Coronavirus-Related Distributions from Retirement Plans
+
+Penalty-free withdrawals from retirement accounts for Coronavirus-Related Distributions ended December 30, 2020. If you made one of these withdrawals during 2020, remember that you have three years to pay the income taxes on the withdrawal. The IRS has an article with [Coronavirus-related relief for retirement plans and IRAs questions and answers](https://www.irs.gov/newsroom/coronavirus-related-relief-for-retirement-plans-and-iras-questions-and-answers) with more information.
+
+# Flexible Spending Account (FSA) Rollover
+
+FSA account balances typically do not rollover year-to-year. The second stimulus package allows for FSA balances at the end of 2020 to be rolled over and used in 2021. Any FSA balance remaining at the end of 2021 may also be rolled over and used in 2022.
+
+# Unemployment Benefits
+
+Pandemic Unemployment Assistance (PUA) provides benefits to individuals typically not eligible for unemployment insurance, such as independent contractors or gig workers. Under the CARES Act these benefits were set to expire Dec 31, 2020. It has now been extended to March 14, 2021. Please visit your state’s PUA website for more information.
+
+The previous unemployment relief of $300/week from the federal government and $100/week from the state expires Dec 26, 2020 (see the [previous megathread](https://www.reddit.com/r/personalfinance/comments/i8mww4/coronavirus_megathread_update_resources/) for more information and FAQs regarding [this executive order](https://www.whitehouse.gov/presidential-actions/memorandum-authorizing-needs-assistance-program-major-disaster-declarations-related-coronavirus-disease-2019/) from August). **Under this new bill, federal unemployment will provide an additional $300/week through March 14, 2021, and the maximum number of weeks that unemployment can be claimed has been increased from 39 weeks to 50 weeks.**
+
+**If you lost your job or are at risk of losing your job:**
+
+Please read the information available in the [Job Loss Megathread: unemployment resources, state-specific information, and help](https://www.reddit.com/r/personalfinance/comments/fkyu8h/job_loss_megathread_unemployment_resources/)
+
+If you have any questions regarding those resources, feel free to ask here, but please be as specific as possible with your current situation and what steps you have taken so far.
+
+# Student Loan Interest and Payment Waiver (updated Feb 13, 2021)
+
+The CARES Act suspended federally-held student loan payments and interest charges until September 30, 2020. The [Executive Order](https://www.whitehouse.gov/presidential-actions/memorandum-continued-student-loan-payment-relief-covid-19-pandemic/) signed in August extended this to December 31, 2020. The December bill extended this date to January 31, 2021. At the [end of January](https://myfedloan.org/borrowers/covid/f), the deferment was extended until Sept 30, 2021. 
+
+Key points:
+
+- Private student loans are not affected.
+- [If your loan is federally-held, you do not need to take any action to suspend payments. Your federal student loan servicer will suspend all payments automatically. You do not need to contact your student loan servicer.](https://www.consumerfinance.gov/about-us/blog/what-you-need-to-know-about-student-loans-and-coronavirus-pandemic/)
+- If your loan is *not* federally-held (i.e., federal student loans held by commercial lenders), do not assume you can pause payments without contacting your servicer. You may want to look into income-driven payment plans.
+
+Read https://myfedloan.org/borrowers/covid/ for more information and updates.
+
+# Stock market turbulence
+
+It's very natural to be feel concerned when there's a large drop in the stock market, especially after such a long period of growth, but it's important to keep perspective and avoid making rash decisions.
+
+First, take a deep breath. Market downturns are not uncommon or unusual. [Between 1980 and 2017, there were **11 market corrections and 8 bear markets**.](https://institutional.vanguard.com/VGApp/iip/site/institutional/researchcommentary/article/NewsPerspectiveMktDownturns)
+
+[Trying to time the market rarely turns out well](https://www.youtube.com/watch?v=unFn-ddtqiM&t=4) and most people trying to enter or exit the market based on emotion, gut feelings, and everyone's predictions end up doing far worse than if they had simply continued business as normal. **[Stick to your plan and stay the course.](https://www.reddit.com/r/personalfinance/comments/2jbtyu/investment_pro_tip_stay_the_course/)**
+
+To quote Warren Buffett: **[""to buy or sell on current news is just crazy""](https://www.youtube.com/watch?v=yaXmmaEs-hU&t=24)**.
+
+Don't make an emotional decision, don't try to predict where the market is headed in the short run, and make decisions for the long run. You're investing for decades, not trying to predict the Dow Jones or S&P 500 next week, next month, or even next year.
+
+# Being financially prepared and practicing sound finances
+
+1. [Budget your money and reduce expenses.](https://www.reddit.com/r/personalfinance/wiki/commontopics#wiki_step_0.3A_budget_and_reduce_expenses.2C_set_realistic_goals) Fundamental to a sound financial footing is knowing where your money is going. Budgeting helps you see your sources of income less your expenses. You should minimize your expenses to the extent practical.
+
+2. [Build an emergency fund.](https://www.reddit.com/r/personalfinance/wiki/commontopics#wiki_step_1.3A_build_an_emergency_fund) An emergency fund should be a relatively liquid sum of money that you don't touch unless something unexpected comes up. For most people, 3 to 6 months of expenses is good. A larger emergency fund may be warranted if your income is variable or uncertain. If you're in credit card debt, aim for one month of expenses and focus the rest of your money on paying down debt.
+
+3. Don't check out of your finances. Continue following the steps in [""How to handle $""](https://www.reddit.com/r/personalfinance/wiki/commontopics) as best possible starting at the beginning of the flowchart. If you can't make rent, contact your landlord. If you have trouble paying your mortgage, see below. If there are bills you can't pay, research your options and contact the company. Simply not paying a bill without any communication is almost certainly not your best option.
+
+4. There's more good stuff you should be doing in this [video from Bogleheads](https://www.bogleheads.org/wiki/Video:_Start_with_a_Sound_Financial_Lifestyle) and the [PF wiki](https://www.reddit.com/r/personalfinance/wiki/index).
+
+# Most mortgage owners eligible for reduced or suspended payments for up to 12 months under the CARES Act 
+
+Key points:
+
+1. The CARES Act covers about [70% of all mortgages](https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=406472) in the U.S. (those backed by Fannie and Freddie, FHA, VA, or USDA). Many companies have similar policies for most other types of loans. If you aren't sure what kind of loan you have, ask your servicer.
+
+2. In most cases, you will [not owe the missed payments as lump sum](https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/after-you-receive-relief/#repay). There was a lot of confusion about this. The new guidance says that lump sums are not required for [GSE](https://www.fhfa.gov/Media/PublicAffairs/Pages/FHFA-Announces-Payment-Deferral-as-New-Repayment-Option-for-Homeowners-in-COVID-19-Forbearance-Plans.aspx) and [federal loans](https://www.hud.gov/sites/dfiles/SFH/documents/IACOVID19FBFactSheetConsumer.pdf).
+
+3. You can't just stop paying your mortgage. Contact your servicer to find out if you are eligible for this or if your servicer has adopted a similar policy.
+
+4. Requesting mortgage relief/deferral will appear on your credit reports and may affect your eligibility for refinancing (but doesn't affect your actual credit score).
+
+5. For more info, the CFPB published [step-by-step information](https://www.consumerfinance.gov/housing) about how to request payment relief.
+
+# Refinancing
+
+[If you're in the market for refinancing your mortgage, it may be worth considering](https://clark.com/homes-real-estate/when-should-i-refinance-mortgage-2020/), but if you don't have a healthy emergency fund and extra cash, you may not want to refinance right now due to the up-front costs. 
+
+Effective Dec 1, 2020, refinancing mortgages backed by Fannie Mae and Freddie Mac will incur a 0.5% [adverse mortgage fee](https://www.cnbc.com/2020/09/18/refinancing-a-mortgage-will-cost-more-thanks-to-an-adverse-market-fee.html). 
+
+# Relief for Renters (updated Feb 13, 2021)
+
+The [Executive Order](https://www.whitehouse.gov/presidential-actions/executive-order-fighting-spread-covid-19-providing-assistance-renters-homeowners/) signed in August required certain federal agencies to take steps to limit foreclosures or evictions. It did not include a list of specific actions or policies. 
+
+Following this in September, the CDC ordered [Temporary Halt in Residential Evictions To Prevent the Further Spread of COVID-19](https://www.federalregister.gov/documents/2020/09/04/2020-19654/temporary-halt-in-residential-evictions-to-prevent-the-further-spread-of-covid-19) that expires December 31, 2020. This has since been extended to March 31, 2021.
+
+Read [Protection for Renters](https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/) from the CFPB and visit the [NLIHC page for COVID-19 Rental Assistance programs](https://nlihc.org/rental-assistance) for additional information and resources 
+
+# Other megathreads
+
+- [/r/legaladvice: COVID-19 FAQ](https://www.reddit.com/r/legaladvice/comments/fgpvcv/covid19_faq_a_workinprogress/)
+- [/r/travel: Coronavirus Megathread Collection](https://www.reddit.com/r/travel/collection/411dde2a-e503-47df-8144-7d12c9acdb7c)
+- [/r/smallbusiness: EIDL/PPP Megathread](https://www.reddit.com/r/smallbusiness/comments/khlk80/eidlppp_megathread_new_rules_old_problems_and_a/)",https://www.reddit.com/r/personalfinance/comments/kq1a25/coronavirus_megathread_update_january_2021/,1609734845.0,333,333,0
+1,"Tax Thursday Thread for the week of February 25, 2021","### Please read the [PF tax wiki page](https://www.reddit.com/r/personalfinance/wiki/taxes) to see if your question is answered there before posting.
+
+This weekly cross-sub thread will be posted through mid-April to give subscribers a chance to ask basic tax-related questions in a consolidated thread.  **We are also very lucky to have some folks from /r/accounting and /r/tax joining us here to help out.**
+
+Since taxes can be a very complex topic, the main goal is to point people in the right direction, provide helpful information, and answer questions.  (Please note that there is no protection under §7525 or attorney-client relationship when discussing matters in posts on a message board.  Consult a reputable tax advisor in person if your situation demands it.)
+
+*Make a top-level comment if you want to ask a tax-related question!*
+
+If you have not received your answer within 24 hours, please feel free to [start a discussion](http://old.reddit.com/r/personalfinance/submit?selftext=true).
+
+For all of the Tax Thursday threads from this year, check out the [Weekly Archive](https://www.reddit.com/r/personalfinance/search?q=Tax+%28Tuesday+OR+Thursday%29+author%3AIndexBot&restrict_sr=on&sort=new&t=year#res-hide-options).",https://www.reddit.com/r/personalfinance/comments/ls42tf/tax_thursday_thread_for_the_week_of_february_25/,1614250812.0,13,13,0
+2,"Small debt from a dentist on my report; dentist has closed, debt collector can't locate account. What do I do?","So, I owed $110 to my dentist, when they closed due to COVID.  Looking at my credit report, the debt was sent to an RMP Services 3 months ago, but RMP Services is unable to locate any account and told me to contact the dentist (who's closed.)
+
+
+Should I just dispute it at this point?",https://www.reddit.com/r/personalfinance/comments/ls7rsk/small_debt_from_a_dentist_on_my_report_dentist/,1614263410.0,254,254,0
+3,Buying a home and my offer got accepted last night - mortgage rates just went up pretty high today - what do I do?,"My contract says if I can't get financing within 15 days, then I'm in default and I lose my 10k deposit. The problem is mortgage rates went up for from 2.65% about a month ago to about 3.25% today (per the quote from my loan officer), Do I wait it out a week and see if rates drop, or do I just lock in this higher rate?",https://www.reddit.com/r/personalfinance/comments/lskdrh/buying_a_home_and_my_offer_got_accepted_last/,1614296681.0,42,42,0
+4,$30k savings -- 1st house?,"Hello! I just recently got a new job that pays $60k before tax. I've been saving up and have about $30k total saved so far. I really, really want to move out and into my own place due to personal family problems. The thing I want some advice about is... **is $30k enough to buy a house**? I'm looking for a house not more than $240k (average for my area). I also have $5k saved as emergency funds (which I put in a % from each paycheck).
+
+Would it be possible for me to put down a smaller down payment such as 10%?  
+Also my credit score is: 715
+
+Thank you!",https://www.reddit.com/r/personalfinance/comments/lso577/30k_savings_1st_house/,1614308157.0,23,23,0
+5,Made the mistake of going with a debt settlement company. Where do I go from here?,"I started a debt settlement program 3/27/20 thinking I was going to better my credit card debt situation but I was completely wrong. After a year into the program and realizing it was a mistake, I'm trying to see what you guys would do in my situation.
+
+Prior to enrolling, I had racked up around $15k in credit card debt between 5 creditors and felt like I was drowning. I was able to make minimum payments on time every month but it felt like I was throwing my money away and that the card balances would just never drop. I signed up for a debt settlement program, one where they essentially let your accounts go delinquent while you make payments into an escrow account that the company uses when they reach a ""settlement"" with your creditor. This has cost me a ton in extra fees and a major drop/damage to my credit score. Granted, I am the one to blame for not doing my research prior to getting into this.
+
+The program as of today has reached settlements on 3/5 accounts (1 paid off/closed and 2 being paid off with structured monthly payments from the escrow account). The other 2 have higher balances and a settlement has still not been reached. I checked on [annualcreditreport.com](https://annualcreditreport.com) and saw that 4/5 of the cards were charged off and unable to be removed until February/March 2027.
+
+I realize a lot of the damage is already done and probably can only be fixed with time, but is there anything I can do as damage control to possibly better my situation? I see people mentioning different things such as contacting creditors or collection agencies directly, or sending pay for delete letters.
+
+I appreciate any insight you guys have so thank you in advance. Let me know if there is any other information you guys may need.",https://www.reddit.com/r/personalfinance/comments/lsplyq/made_the_mistake_of_going_with_a_debt_settlement/,1614312810.0,15,15,0
+6,Rejected mortgage due to size,"Hi,
+
+I’m in the process of obtaining a mortgage through private sale, from a Big 5 bank in ON, Canada. 
+
+Had a few hurdles along the road, but now I believe I’ve hit a wall. It’s my grandparents home on 3/4 acres lot, with 600sqft single family residential building, detached garage apprx 500sqft, couple small sheds in the back. 
+
+I just heard back that the bank cannot do financing because of the square footage of the house. Has anyone heard of this? I’m not finding anything online related. 
+
+It’s an older home (50yr+). Not a modular or “tiny” home. 2br, 1 bath kitchen/dining and separate living room. 
+
+I know it’s small, but I’m confused as to why they couldn’t do lending for this place? My grandparents lived there for 45 years, and I’m currently living there. House is in fair shape, just a bit outdated. 
+
+Any help or direction is appreciated thank you.",https://www.reddit.com/r/personalfinance/comments/ls4s4l/rejected_mortgage_due_to_size/,1614253571.0,188,188,0
+7,Angela Singleton charged my account for $1.44? Who tf is Angela Singleton?,"Hello!
+
+I just got debited out of my checking account $1.44 cents from a girl named Angela Singleton with her phone number attached to it. My checking is with Chase Bank. Apparently tons of people got this charge. Does anybody know anything about this?? Kinda sketch..
+
+Who else got it??
+
+EDIT - For everybody asking, I called Chase and they took care of it (I think). The charge was charged from my debit card so they canceled my debit card and am receiving a new one in the mail. Transfered all my money out of my account. Waiting until Chase closes my claim and then will close the account. Thanks for your help everyone!
+
+Edit #2: Someone said this in here but the only thing I use my debit card for is PayPal/Ebay for when I sell or buy something on Ebay. There's a lot of people in here saying they found the same charge because they saw this post. Those who found the charge, did you use PayPal/Ebay with that account??",https://www.reddit.com/r/personalfinance/comments/lrl7kf/angela_singleton_charged_my_account_for_144_who/,1614194936.0,3855,3855,0
+8,Should I quit my job?,"Ok so I know it sounds crazy but hear me out. I currently work at a photo studio as a photographer 9-5 10$h 5dw which is like 375$ a week with tax. No commission, 4-8 clients a day.
+My current job is a pretty low end photo studio but they do have contracts with schools and is consistent work.
+I also do freelance work on the side and get payed much more per client as it is 100% mine, but clients are more sporratic and they pay more. BUT I don't have time because I spend too much time at the photo studio and when I come home I'm too tired to work on bigger projects.
+Me and my mom have found a lot of people in the modeling/photography/videography industry and I have a LOT of opportunities I can pursue but I spend too much time at my job.
+I have the confidence to be one of those instagram photographers/videographers that make a lot of money because I know I can create the same quality as them.
+I Live with my parents and only pay car insurance plus gas which comes out to 300$
+I already have all the equipment I need to charge people big bucks. 
+I also want to eventually move out with my girlfriend but I know that's on the future.
+At my job, I don't see myself moving up or getting a raise any time soon as the company is losing money .
+I live in miami so I'm in a hotspot for photos and videos.
+Should I quit my job?",https://www.reddit.com/r/personalfinance/comments/lss0af/should_i_quit_my_job/,1614322179.0,5,5,0
+9,Fear of having to work until I’m dead,"I’m 32 years old and have about $20,000 in all my retirement accounts combined. Right now I’m saving 3% of my salary and my employer contributes a little under 3% matching (something like 2.5 or so). 
+
+I make $72,000 a year (just got a raise!) from $65,000 previously. My wife makes around $64,000 a year and hasn’t been contributing much to her 401k recently because we’ve had some large expenses recently, but she has about $20,000 saved up too. She’s a contractor and doesn’t have 401k matching. 
+
+I’m so stressed about saving enough for retirement. I don’t want to work until I’m 70 or even 65 really, but will if I have to. 
+
+Right now I also cannot afford to contribute much more than 3% to my retirement. I was stupid and have credit card debt that I’m trying to pay off as fast as possible. 
+
+After that, I will be paying the amount I put towards the credit card towards retirement so about $600 a month. But that still seems like not enough. 
+
+Anyone else stressed out about retirement? How can I make sure that I’m financially secure?
+
+I read about people contributing 10-15% of their salary and I just don’t think that I can do that (at least currently). What are your plans like?
+
+
+*Edit, thanks for the advice everyone.",https://www.reddit.com/r/personalfinance/comments/lsggtb/fear_of_having_to_work_until_im_dead/,1614286015.0,28,28,0
+10,Should I exceed my companies 401k match or just meet the match limit and invest excess into a Roth IRA?,"[27M] I’ve had a stable job with the same company for the last 5 years. Ive recently (in the last year) started taking my future retirement seriously. Prior to 2020, i only looked at my 401k a handful of times and never adjusted my contribution. Currently have 40K in my 401K, I believe my company matches up to 7%. 
+
+However, I just opened a Roth IRA that I will be contributing to monthly towards Target date funds, and ETF’s. Wish I would have done this sooner. My question is, should I continue to exceed the company match contribution to my 401K, or notch it down just to get the percentage match limit and put the rest into my Roth? 
+
+New to all this, but from what Ive researched I should get a more efficient return in a Roth IRA, right?",https://www.reddit.com/r/personalfinance/comments/lsm9jq/should_i_exceed_my_companies_401k_match_or_just/,1614302335.0,12,12,0
+11,Question about Credit Check,"I’m in the process of buying a new car. I filled out the credit paperwork for a trusted dealer on their secure application over a vpn and my Chase account for my credit card showed a dealer inquiry. I understand that, but two hours later there were two more credit checks by Bank of America. I do have a Bank of America account but my only credit cards are from Chase and Discover. Plus I only listed my Chase account on the dealer form. My cosigner also only listed their Chase account. How do make sure these extra checks are legit? Are they normal? Dropped my credit score 15 points.",https://www.reddit.com/r/personalfinance/comments/lsqn9k/question_about_credit_check/,1614316639.0,4,4,0
+12,Didn't file taxes in 2015 and I can't obtain my W2 information from my employers so I can file. Is there another way I can make sure this is filed?,Is there another way to obtain my W2 information even though I did not file my taxes for that year?,https://www.reddit.com/r/personalfinance/comments/lsi2q4/didnt_file_taxes_in_2015_and_i_cant_obtain_my_w2/,1614290344.0,15,15,0
+13,"Tips for someone making $32,500 salary?","I just got an entry level job at this salary and am looking for advice on how to capitalize on and make the most out of every penny. 
+
+After rent, health insurance, and taxes, I’ll have ~$200-$300 per week extra cash. 
+
+What budgeting tips do you all have to offer? Investing tips? Savings advice? Credit/credit card info? Favorite money resources? 
+
+I basically want to find the most efficient and effective way to use my money at this income level.",https://www.reddit.com/r/personalfinance/comments/lsnlfx/tips_for_someone_making_32500_salary/,1614306609.0,6,6,0
+14,Can you use two health insurance plans for pregnancy to save in any way?,"[California, US]
+
+We found out a bit ago that wife is pregnant. She currently has health insurance through her company. I have mine through my company, but my enrollment period is open right now so I was wondering if it made sense at all to add her so he has two insurance since there will probably be a lot of expenses during this year.
+
+That being said she is also highly likely to leave her current job this year (possibly before due date) and switch to a new company. There might not be a lot of choice here, since we moved states and she's just working remote for her old company temporarily. If that did happen we obviously don't want her uninsured for however long until her new insurance kicks in too. So we are leaning towards adding her regardless to mine.
+
+My current payments are ~80/mo and with adding her it goes up to ~3xx/mo. So definitely not cheap, but it also seems like when comparing our two plans that my deductibles/copays are a lot better than hers, so maybe it even makes sense to have her leave her companies plan and we just use mine (that is if there is no benefit to having two).
+
+And anyone have any good resources on preparing financially for pregnancy (not long-term, more like FSA/HSA stuff)?
+
+Thanks!",https://www.reddit.com/r/personalfinance/comments/lsjdir/can_you_use_two_health_insurance_plans_for/,1614293871.0,10,10,0
+15,I have student debt.,"I went to college for a couple of years and then became pregnant with my son so I dropped out early in the semester. I never had FAFSA so everything was out of pocket meaning I have to pay the student debt from the courses I dropped off first before going back. It’s about $1,800 I believe. My question is is there a way I could get a student loan and pay off past classes? Anything?
+
+EDIT: I dropped out of classes around September 2017.",https://www.reddit.com/r/personalfinance/comments/lsr33m/i_have_student_debt/,1614318373.0,3,3,0
+16,"If I open a Roth IRA today, am I able to contribute for the prior year or am I stuck to only this year because it would be a new account?","27M. I’ve started my investing journey this past month. Been reading up on things like crazy to make up for lost time. But one thing I can’t seem to pin down are prior year contributions on an account I just opened. If I open a Roth IRA right now, am I able to max it out for last year’s max as well as this year or am I subject only to the current year?",https://www.reddit.com/r/personalfinance/comments/lso5da/if_i_open_a_roth_ira_today_am_i_able_to/,1614308167.0,5,5,0
+17,Have my parents been committing tax fraud against me?,"So I live with my parents at 30 years old. I have a learning disability but I am able to lead a relatively normal life. I work part time and I am taking several prerequisites to be able to get my associates. Ultimately I want to become a physician. I have maintained a GPA of 3.5-3.6 in my freshman year of college, i go to community college online as I struggle to drive. I used the Covid money to pay for classes because I was never able to afford school before. I do have a genetic disorder that has caused my learning disability but as I said above I lead a relatively normal life( I say relative because I still live with my parents). Anyway I looked at what qualifies as a disabled dependent on the Irs website and Mass Gov website. 
+
+   Both of these say ""He or she has to be permanently and totally disabled"" 
+He or she cannot engage in any substantial activity because of a physical or mental condition""
+
+""A doctor determines the condition has lasted a year or can be expected to last continuously for at leat a year or can lead to death"". 
+
+
+I made $11000 this past year paid $125 a month for rent and $45 a month for my cell phone line. 
+I also paid $1690 per semester for classes all on my own without any help financially from my parents.  
+
+They have not done taxes on me this year but would they be committing tax fraud if they count me as a dependent? I didnt work much in my early adult years so I never made enough to file a claim",https://www.reddit.com/r/personalfinance/comments/lsho3p/have_my_parents_been_committing_tax_fraud_against/,1614289247.0,13,13,0
+18,Going to be Junior this Fall. Need tips,"Hi, I'm currently thinking if I should quit my full time admin job ($20/hr), in hope to land internships this coming summer (computer science/infosec) until I graduate.
+
+I already have saved 6 months emergency savings and my weekly expenses can be covered by working part time minimum jobs. I just think having internships will give me a better hands on experience in my field.",https://www.reddit.com/r/personalfinance/comments/lsqw1n/going_to_be_junior_this_fall_need_tips/,1614317583.0,3,3,0
+19,Can I file taxes using 2 different methods of filing?,"I want to file 3 1099s with H&R Block via in person appointment, and then file a W-2 via a self-filing service like TurboTax or some other tax accountant service. Reason being is that I want avoid paying H&R Block's $300-400 BS ""mixed filing fee"" that they made up in 2019 due to the insurgence of gig workers I'm assuming. Anyway would this be possible?",https://www.reddit.com/r/personalfinance/comments/lsqiqm/can_i_file_taxes_using_2_different_methods_of/,1614316161.0,3,3,0
+20,Buying more expensive home - good idea or foolish?,"Hello everyone,
+
+I will be working with our financial planners but also curious for your experience/advice.  I'll try to keep it brief/general.  My wife and I currently own a home worth about 800K.  We owe about 325K left on the mortgage with 17 years left to go.  We both have pretty good retirement savings and about $250K combined in investments, and some (but probably not enough) in a college savings plan.  We have one 10 year old child.  We both earn low to mid six figures.  She has about 10 years until retirement with a nice pension and I will probably work a bit longer than that.  We live in an area with a high cost of living, we don't live lavishly at all but we have all we need plus money for entertainment, gifts, dining out, modest vacation, toys, etc.  No other debts besides one car lease payment.  
+
+In a perfect world, we would like to buy a more expensive home to get some features that we don't have in our current one (namely a larger backyard with a pool and our own driveway and parking).  I estimate the new home we would wind up with would cost 1 million.  We don't plan to retire here, and when my wife retires we plan to move to a less expensive area.
+
+So we vacillate.  One week we say, it's foolish to move, let's stay where we are until retirement.  If we have any extra money let's save it, invest it, try to pay off our home earlier etc.  These are definitely uncertain times.  Right now our jobs both feel secure (especially hers as a city employee), but you never know.  I was laid off from a previous job several years ago but luckily had severance and found a new one before it ran out.  Finding work should not usually be an issue for me but hey you never know, especially if the pandemic god forbid drags on.  
+
+The following week we think, why the heck not?  We can afford the monthly payments, especially if we take out a new 30 year loan with hopefully a lower rate (we are at 4.375% now) and maybe eat out a bit less.  We only have one life to live and we can really enjoy these new features while our son is young.  We've got a little nest egg in the investments just in case something unexpected happens.  And besides, won't this ultimately be an investment, and the home's value will only appreciate over time?
+
+So....what do you think?  What would you do?
+
+Thanks",https://www.reddit.com/r/personalfinance/comments/lsq7ka/buying_more_expensive_home_good_idea_or_foolish/,1614315027.0,3,3,0
+21,Can I afford this?,"Hi.. advice needed please. My partner and I are splitting up - I have the option to sell the house we live in, or keep it. I’m nervous I’ll be stretching my budget too thin but I know it’s a great investment (beautiful renovated house in a beautiful and expanding neighborhood). After all of my bills are paid, insurance, car, utilities and the mortgage is paid, I will have around $1500 a month left for food, savings (and retirement), gas, dog and cat food and leisure and any home maintenance. This is only if I don’t make additional commission that month. I try to structure everything off my base pay and not my commission because it’s not guaranteed. My commission is based on year over year numbers and I had a good sales year in 2020. So, naturally, I may be able to expect my commissions to be lower this year and rise again in 2022 (In theory). Included in the $1700 mortgage is $200 of PMI since we did an FHA loan. I can anticipate refinancing and having this dropped sometime in 2022, or perhaps 2023 which would give me an additional $200 of wiggle room. So I guess my question is.. is $1500 enough left over to take care of the things listed above (again this is IF I make no commission) This is my first house and I’m scared. Please don’t judge.. I need advice 
+
+Thank you",https://www.reddit.com/r/personalfinance/comments/lslz0v/can_i_afford_this/,1614301430.0,6,6,0
+22,Mom wants me to Cosign for a new house since my dad passed away,"Hey all,
+
+So I am kind of lost right now so here I am! Here is my (29f) situation. I am married, already cosigned with my husband on our current house, have student loans, car payments, and looking to sell and move to a new house before our first child is born. I'm due in July 2021. Overall, I have over $300k to my name and I only make 35k a year. Husband makes $102k. We live in MD.
+
+My mom (69) currently lives in a house in SC but wants to move to a new house in SC.  They want to keep the old house to rent for additional income. My brother(28) lives with her and he is making around 30k. Mom doesn't work but she getting survivors benefits and Social Security. When my dad was still alive in January 2021 he and my mom were about to buy the house but now that he passed away in February it cuts their finances down and now the lender wants either a cosigner or mom has to put down $101k for the down payment on the new house. Even if they do sell the old house they won't make enough to cover the down payment.
+
+Mom says that my brother can't cosign because he he single and doesn't make a lot of money and it's better if I cosign since I am married. I do not want to cosign because I am worried about how this will effect my credit and when me and my husband  go to buy our next house.  I tell my mom my concerns but she won't listen and then turns on the water works and says ""you want us to live in an apartment!""
+
+IDK guys. I feel bad about my mom but I'm worried about my future. Would I even be approved with my mom and brother? What happens if I do cosign? What are the options for my mom of I don't cosign?
+
+Edit: Mom sys they have renters wanting to move in in May and they already gave her $4000 .",https://www.reddit.com/r/personalfinance/comments/lsojts/mom_wants_me_to_cosign_for_a_new_house_since_my/,1614309279.0,3,3,0
+23,Are my Parents Lying about their Taxes?,"I was in this forum earlier this year, asking if my parents had any rights to claim me on their taxes. The consensus was no, they couldn’t. 
+
+Unfortunately though, I went to discuss this and my mom threw a fit and refused to talk about taxes with me. She told me she would, “file as normally” and when I asked if they meant claiming me, she wouldn’t answer. Fast forward several weeks, she asks if I filed like I wanted and blew up on me for not doing it that way. She claimed that she didn’t claim me and I needed to fix my taxes. I can fix them 2/26/21 and today she messaged me claiming that, she had to “refile her taxes because they came back wrong and she had to claim me” the day before I could fix my taxes. 
+
+I just want to know if that’s actually possible or if she’s lying to me. I was told previously that I could file dependently and everyone assured me that was the case as I didn’t qualify for her to claim me at all yet she’s claiming that her taxes say that she does have to.",https://www.reddit.com/r/personalfinance/comments/lskwaa/are_my_parents_lying_about_their_taxes/,1614298167.0,9,9,0
+24,"When i apply for a new job i have to do the w4 obviously. Do i claim ""1"" like before or how do i fill it out now?","So i noticed you  no longer claim ""1"" for yourself on taxes. Do i have to claim anything if i'm single, not married, no dependants, just the most basic thing? I see instead there's a 500 per other dependant. You're dependant on yourself so can you claim 500, or do you just not fill anything additional out if you're single no dependants?",https://www.reddit.com/r/personalfinance/comments/lsq1mx/when_i_apply_for_a_new_job_i_have_to_do_the_w4/,1614314410.0,3,3,0
+25,Confused over 1098-T,"So I'm a freshman in college. I received a 1098-T. I've tried doing some research, but I've only seen that you have to file them if the scholarship received was above the expenses. But my scholarships are lower. I tried seeing if TurboTax free file helps, but it brought my refund down to $1. So do I have to file it with my taxes or would it be okay if I didn't?
+
+For reference, box 1 $9,730.50 and box 2 is $7,873.00.",https://www.reddit.com/r/personalfinance/comments/lso7md/confused_over_1098t/,1614308306.0,5,5,0
+26,Totaled car that I still owe and only liability insurance,"I financed my car with Toyota on December 2019. I was told I needed full coverage insurance and to sign up with Geico and I could change it later. It was too expensive for me so I put it on my parents insurance in January 2020 because it was cheaper. 
+I told the insurance agent to remove our old car and to put my new car. I was not clear and did not say to put full coverage so the agent put whatever coverage the old car had which was just liability. The whole year I had it I just assumed I had full coverage and never read the statements we got in the mail. 
+
+I got into an accident that was my fault and my car is totaled. The insurance is only covering the other car but not mine. The gap insurance is still processing the claim but if they do approve it they’re only covering around $2,000 which still leaves me with $18,000. I’ve been told by multiple shops that it’s not worth fixing. 
+
+I don’t want to mess up my credit by not paying it and I was told I can’t sell it because it has a lien on it. 
+
+Do I have any options besides paying on a car I can’t use? Can I sell it for parts? Can I finance another car and add it to my remaining balance?",https://www.reddit.com/r/personalfinance/comments/lsk1mj/totaled_car_that_i_still_owe_and_only_liability/,1614295709.0,6,6,0
+27,"Locked our rate with no point no fee, final disclosure said there is a fee of $1775 to get that rate. What should we do?","Hello everyone, first time home buyer in Texas and we are looking forward to hear your wise advice/suggestions. Hopefully the questions aren’t too stupid, we are still learning everyday about this process. Thank you! 
+
+We locked our rate on Feb 4th with an interest rate of 2.5, no point no fee for a single family home. Today, when we get our final closing disclosure, rate is still 2.5 but with point and a fee of $1775. The reason was even though the house is a sfh, on title and legal documents it is identified as condominium or detached condo. We asked our lender in writing right from the moment we knew it was listed as condominium if this would effect our interest rate. He said no because in reality it is a sfh. But now, turned out it is effecting us. 
+
+He then offer us a 2.625% interest rate and $700 credit which we could put towards closing cost. We are thinking about negotiating the fee with lender, maybe 50:50, has anyone done this with their lender before? No one said negotiating is prohibited so we were just thinking why not? Or should we go with his offer for 2.6% and a $700 credit. Number wise, the 2.5% makes sense in the long time but we have to put down more money at closing. The 2.6% sounds good right now at closing because we would pay less. But in the long term, we technically pay more for interest rate. How would you decide which situation is better for you? What would you do in this situation?",https://www.reddit.com/r/personalfinance/comments/lsra9i/locked_our_rate_with_no_point_no_fee_final/,1614319188.0,2,2,0
+28,Can I get a car on a $45K/yr salary?,"Hi, adulting is hard and I'm still trying to figure out how much to pay for The Big Shit. I make about $3800/mo. My job requires a LOT of travel, and I've had my poor old man since I was a teenager (2006 Volvo). It's fairly dependable, but doesn't have good storage and my boyfriend, who I'm moving in with, doesn't have a car, so I'm debating selling my boy to him and getting an SUV. 
+
+I'm not looking for anything fancy, just a tank w/ decent gas mileage, extra storage and *maybe* a backup camera, but even that's negotiable. 
+
+How much should I reasonably pay per month on a car, assuming my total living costs are about $1000 per month?",https://www.reddit.com/r/personalfinance/comments/lsn2df/can_i_get_a_car_on_a_45kyr_salary/,1614304909.0,4,4,0
+29,"Unexpected raise puts me above max income for 2021 IRA contribution, but I've already made 2021 contribution","EDIT/UPDATE: I had completely forgotten about backdoor IRA contributions. I have an old 401k that rolled into a trad IRA in 2017. Does this mean I have pre-tax money in an existing IRA?   
+
+
+I realize I am very fortunate to have this problem, but: yesterday I received a big, and unexpected raise. This puts my and my spouse's projected total taxable income about $213K for the year. This includes us maxing out our 401k contributions. The complication here is that we've already made our max ROTH IRA contributions for 2021.
+
+Here are my questions:
+
+1. What is the best way to handle this? If I do nothing, I'll take a tax hit, right?
+2. Are there other ways to reduce our taxable income that I am overlooking? Most deductions (mortgage interest, childcare, etc?) reduce taxes owed, not taxable income, right?
+3. I've normally done my taxes myself, is my best option here to hire an accountant?
+
+Thanks.",https://www.reddit.com/r/personalfinance/comments/ls8sea/unexpected_raise_puts_me_above_max_income_for/,1614266166.0,25,25,0
+30,Selling Our Rental House. Looking To Avoid Capital Gains Tax,"Hi. We're selling a house that we were using as a rental for the past 5 years. We look to make close to $100k on it after all fees are paid. 
+
+After some reading online it doesn't look like we can easily avoid long-term capital gains tax. We plan to use this for our son's college fund so we're not planning on reinvesting or buying another house. My question is, is there a way for us to avoid CGT by starting a 529 college plan or doing something crafty?
+Thanks for the help!",https://www.reddit.com/r/personalfinance/comments/lsnphy/selling_our_rental_house_looking_to_avoid_capital/,1614306993.0,3,3,0
+31,Question for my elderly mother about stocks,"My mom had a decent sized career at a southeastern grocery chain called Winn-Dixie. Her employer gave her stocks with the 401k. Well in 2005 Winn-Dixie filed for bankruptcy. They are currently owned by Southeastern grocers. Is there any way she would have access to these shares anymore? If not that is okay, I just wanted to check.
+
+&#x200B;
+
+We both are not well with technology or anything like that. I would greatly appreciate the help.",https://www.reddit.com/r/personalfinance/comments/ls9qsy/question_for_my_elderly_mother_about_stocks/,1614268680.0,21,21,0
+32,Vanguard vs Fidelity for Roth IRA,Im 23 years old and want to open a Roth IRA but don't know much about it and these companies seem to be the main ones.  I want to put 5000 in it and contribute monthly around $100- $150.  Which one would you recommend in my position.,https://www.reddit.com/r/personalfinance/comments/ls5bcs/vanguard_vs_fidelity_for_roth_ira/,1614255492.0,41,41,0
+33,Closing Costs on a House in Texas,"I am getting close to having enough money saved up for buying a house. I'd like a better explanation on what closing costs to expect and if all are ""fees"" that are lost once I pay them or if any of them count toward my down payment (meaning I don't have to pay the amounts twice). This is what I found in the realtors website:
+
+Closing costs to expect:
+
+* title insurance  
+* escrow fees ($200)
+* attorney fees ($400)
+* recording fees 
+* appraisal fees ($500)
+* document preparation fees
+* notary fees
+* loan underwriting fees
+* option fee ($500)
+* earnest money (1-2% of home price)
+* inspection ($500)
+* credit check and appraisal ($500)
+
+Anyone have any idea on what I can expect. I've included estimates that I've found for now.",https://www.reddit.com/r/personalfinance/comments/lspue8/closing_costs_on_a_house_in_texas/,1614313662.0,2,2,0
+34,So what is the current advise for cash you need in a short time?,"What do you do with cash you need in 6months - 2 years? IIRC, the old advices were:
+
+* High-Yield Savings account: but all the rates are abysmally low
+
+* Bond ETF: but interest rates are abysmally low now, so they can only go up, which will tank bond etf prices
+
+So what should we do? Just hold it as cash? T-Bill?",https://www.reddit.com/r/personalfinance/comments/lspq4k/so_what_is_the_current_advise_for_cash_you_need/,1614313216.0,2,2,0
+35,"Is there a downside to applying for more credit cards to get the introductory offers, if I can consistently pay the entire balance?","I have 3 credit cards, only use one most of the time for everyday spending (Chase Sapphire Reserve), and always pay the monthly balance on all of them. I got an email from my bank saying I can get a $500 statement credit by signing up for a card with no annual fee, and spending $5k in 90 days. I will spend that much on a card either way, but with this offer it’s basically a 10% return. Is there a major downside to taking this offer, using the card until I spend $5k to get the free $500, and then not using it anymore?",https://www.reddit.com/r/personalfinance/comments/lsl0i6/is_there_a_downside_to_applying_for_more_credit/,1614298502.0,4,4,0
+36,Should I open a SEP IRA to backdoor Roth,"I do doordash on the side, and because I already max out my Roth, I was wondering if it would be a good idea to open a SEP IRA to put all of my earnings into and because its a traditional IRA, I think I could backdoor Roth. I'm not sure though.",https://www.reddit.com/r/personalfinance/comments/lsp6km/should_i_open_a_sep_ira_to_backdoor_roth/,1614311364.0,2,2,0
+37,"Question regarding Roth IRA's, contribution dates, and tax penalties","Hello,
+
+I recently opened a Roth IRA account and learned you can only donate $6000 per year. But since you have a deadline to file until Tax day ( 4/15/21 ) for the year of 2020, and until 4/15/2022 for 2021, etc.....I'm wondering if I contribute the 12,000 now and can still file one 6,000 for 2020 and another for 2021 next year....if that makes sense?
+
+Or do I have to wait until after tax day to file my additional $6000? Appreciate any help.",https://www.reddit.com/r/personalfinance/comments/lsp5qs/question_regarding_roth_iras_contribution_dates/,1614311283.0,2,2,0
+38,401k to IRA question,"I recently left my employer for another company and I’m trying to decide what to do with my 401k. It is with Fidelity and has only about 44k in it currently. 
+
+I’m thinking my best option is to stay with fidelity and use their Rollover IRA option? It is a traditional 401k, so that means I would have to do a traditional IRA I believe. 
+
+My new company uses Vanguard and automatically enrolls everyone to contribute 6%. But they do not match. I have not been with the company long, and so far have only made 2 contributions to Vanguard through payroll.
+
+From what I understand, my contributions to the Rollover IRA would not be tax deductible since I was enrolled in the Vanguard account through my employer? Would it be better to just stop contributing to the Vanguard account since there is no matching anyway? Or would it not matter this year since I already contributed to it. 
+
+I’m not sure that it matters, but I am 31 years old and live in Southern California. My base salary is 65k, but can make anywhere between 1-7k in additional bonuses monthly depending on volume. As I just started, I am not sure where I will fall in that range. 
+
+Thank you for your time!",https://www.reddit.com/r/personalfinance/comments/lssad3/401k_to_ira_question/,1614323397.0,1,1,0
+39,Receiving a dental bill 4 months later after paying,"Hello! So I have a quick question and concern. I had my wisdom teeth removed last October, and while the recovery went smoothly (and I thought the payment and insurance did too) it has not. In total my bill was $2000, but after insurance kicking in I just had to pay $500 out of pocket. No big deal, they said insurance was good and went through and I went on my way without any contact. Until today, I receive a letter 4 months later saying they can’t get in contact with a live person at my insurance and that it’s “pending”. My statement balance is now back at $2000 and I’m kinda freaking out. I will be calling them in the morning, the dental place and insurance company,  to see what’s up but I just wanted to post on here to see if there’s any other thing I could do or know about prior to calling. This is honestly my first time as a young adult with health insurance and what not, and I wanted to see if anyone else has dealt with something similar.
+
+Anywho, thank you!",https://www.reddit.com/r/personalfinance/comments/lss8xn/receiving_a_dental_bill_4_months_later_after/,1614323211.0,1,1,0
+40,"Canadian Small Business owner, what to invest","I am from Quebec, Canada. Please be kind as this is my first post. I do not have a lot of education or experience in investing. I was an independent contractor doing manual labor for many years and have my own small business corporation. There was only me inside it. This was so they don't have to pay for my benefits and also for liability. I was ok with this arrangement, I was young and the extra dollars/hour helped. 
+
+I always took out just enough for what I needed. However recently I got injured and am no longer to continue the same line of work. I got a desk job that is full time and it pays enough for my expenses. I have a sum of money left in my corporation \~120k, that I cannot take out or I'll be taxed heavily since I am getting income from my regular job. My accountant says I should invest it instead.
+
+I spoke to a bank financial specialist. I was given some options such as long term savings account that pays only 1%. Mutual funds, bonds etc. Then he also mentioned I could maybe use my corporation to invest in stocks or properties. 
+
+1) I was wondering if I can use my corporation that was in one business (labor) to do another (stocks, investment, property rental?). I have been trying to figure out if my corporation is a ""S corporation"" but for some reason I can't get a straight answer. If my corporation isn't a ""S corporation"" that can trade stocks, is it hard to convert it into one? Should I take the time to learn how to invest by myself with Apps like SimpleWealth or hire a broker to handle it?
+
+2) After talking to family and friends, they told me it is a bad time to jump into stocks. I should look into property however from  my own research, I think cannot justify buying a property for my small business if that corporation is no longer generating income/has no activity? So my option is to turn it into a rental? How would that work and is that a good idea? 
+
+Greatly appreciate any feedback and advice on how I can invest the money left in my small business corporation.",https://www.reddit.com/r/personalfinance/comments/lss5t4/canadian_small_business_owner_what_to_invest/,1614322848.0,1,1,0
+41,Debating on whether or not I should try a personal loan,"I've made quite a few bad mistakes in my life, but I've gotten the underlying issue of reckless spending under control. I'm 25, make about $32,000/yr and owe $10k in C.C Debt, 21k in car debt. Wondering if getting a loan from upstart could make sense for me.  Need opinions and advice please. Here's the breakdown.
+
+Card 1 - $5400 balance | 18.99% APR | $143/mo min payment
+
+Card 2 - $3970 balance | 14.24% APR | $88/mo min payment
+
+Card 3 - $842 balance | 14.99% APR | $40/mo min payment
+
+Car Loan - $21,000 balance | 8.99 APR(I know) | $439/mo
+
+Yes, I know the car is stupid and I've already lost sleep over it and admitted it's a huge problem. Already looking ahead at the future and how I can fix this, not at how I got here because I've solved the root issue.
+
+So, I bring in about $1950 a month and my expenses right now, after everything total $1450. I have $500 extra to throw at the cards. That's not enough for me, I'm trying to create some extra wiggle room here. I plugged in some numbers at Upstart, and it looks like I could get a few loans. Wondering if any make any sense to y'all, or if I shouldn't bother in the first place.
+
+Loan 1 | $12,000 | 3 Year | $405.17/mo | 17.97% APR
+
+Loan 2 | $12,000 | 5 Year | $282.44/mo | 17.17% APR
+
+Loan 3 | $15,000 | 3 Year | $511.64/mo | 18.61% APR
+
+Loan 4 | $15,000 | 5 Year | $359.86/mo | 18.50% APR
+
+So, I have a few thoughts here. I'm currently upside down on my car loan by about $3,500 if I were to sell the car right now. If I take the $12,000 or $15,000, I could take the difference and get rid of this POS, and buy a cheap Honda Civic or Prius for say, 5-6k. I'd have around 2-6k left to then throw down at my cards. So, if I do that, I'll eliminate the $439/mo payment at the least and knock out a huge chunk of Card 2. I plan to have Card 3 paid off within the next month as well. Really, I think I'm just trying to get rid of this car because I am tired of paying so much for it. I know the three year loans are about what I pay for the vehicle now, but I'd be freeing up a few extra hundred dollars a month as well as shedding off some of my total debt. I guess I just want to know if this is a stupid idea or if this could help me out. Thanks guys.",https://www.reddit.com/r/personalfinance/comments/lss4nn/debating_on_whether_or_not_i_should_try_a/,1614322728.0,1,1,0
+42,How much buffer money should I leave in my checking account for monthly expenses?,"So I finally hit my 6 month emergency fund goal and saved up $25k in a savings account. My question now is how much additional money should I keep in my checking account for all of my monthly expenses? I would like to start allocating my savings now towards retirement investments, but I don't want to end up having to move money from my savings account over to my checking account to pay  any bills because I didn't leave enough leftover. I average monthly expenses around $4k per month (VHCOL), so generally I keep about $6k in my checking account at any given time. 
+
+My income is also pretty variable so it makes it hard to have a strict $0 budget which I've seen recommended. Some months I may only have $4k come in, but others I might have $12k come in. 
+
+Mainly just curious how you guys manage your immediate and monthly bills and expenses.",https://www.reddit.com/r/personalfinance/comments/ls6z1f/how_much_buffer_money_should_i_leave_in_my/,1614260928.0,25,25,0
+43,Currently in process of a Mortgage,"Hey everyone, currently in process of getting a mortgage for a house, the house is priced at 300,000$. I applied for financing through 4 different banking lenders to compare prices, all are close to same rates, it’s an FHA loan I am pursuing mainly for a 3% down payment and having about 25,000 saved currently. I decided to purchase this home because it is a 3-unit home with spacious units, calculated rent with “vacancy” of 6.5%; with myself living there I am estimating costs to be about 100$/month in costs after average electricity, oil, and taxes all included in total mortgage. 
+
+This being said, the bank mentioned my Debt-to-Income ratio is currently 47% and they would need to see 45% or I will need to go to underwriting (which I’m not entirely sure how this works, I thought all mortgages went through underwriting) but the bank I discussed with mentioned I should sell both of my current vehicles (I have loans on them both: 28,500$ and one for 13,000$) I only have my second loan to have a secured debt rather than credit card debts from hardship in the past. 
+
+What I’m looking for information on is, 
+What is underwriting? 
+Should I be concerned about the 2% over? 
+If I cannot sell my vehicles in a short period of time (I currently have them listed for owed amount; about the value of/a little less than what they’re worth in the market) would I likely be denied?
+And genuinely your thoughts overall. 
+
+This is my second home purchase, my first was 6 years ago when I was 20 years old. I have never missed a payment in my life, no negative marks on credit, and a credit score in the 720 range. 
+I sold my home in September to get out of the city due to crime rate raising and because my homes value was quite reasonable compared to what I paid. 
+Any information will be helpful for me, thank you for taking the time to read this!",https://www.reddit.com/r/personalfinance/comments/lss07i/currently_in_process_of_a_mortgage/,1614322170.0,1,1,0
+44,Mom Passed - could use some helpful advice as to best handle her affairs,"My mom recently passed and did not leave a will. My sister and I will be handling her affairs.  My sis is on two of my mom's bank accounts (the two that we know of right now) so we so currently have access to funds to help pay for funeral preparations and other expenses.  Someone from the bank told my sis that because she's on the account, the bank wouldn't freeze the account until lawyers get involved. Is this true? Our goal is to involve lawyers as late in the process so that we don't run into issues with paying some of her bills.  Any other steps we should be taking to make the handling of her estate as smooth as possible. In the state of Louisiana.
+
+Mom still has a very small mortgage on her house and a small car loan. Both which could be covered by monies in her savings. Do we have to pay this off first in order to take possession? Or can we just roll the mortgage and loan into our new ownership? Should we try to negotiate any remaining medical bills? Do we continue to make good faith payments on home utilities and car note until we work out all the financial issues?  Or is there a better way to handle this? Is there a way to get a complete history of financial info for our mom to make sure she doesn't have additional bank accounts, or life insurance policies, IRAs, etc?  How do we find out if any of mom's insurances/policies would pay off her debt at death? 
+
+We've heard that there may be advantages of putting mom's property and monies into a trust of some sort. Does that sound reasonable and possible? Are there tax advantages of doing this? I'm currently dealing with some financial issues of my own (trying to avoid bankruptcy) and do not want to jeopardize any of my mom's assets that could be left to me and my sister just because my name will be on it. Would a trust protect them from a future bankruptcy on my part? Should I just forfeit my claim to anything and not even have my name associated with the trust?
+
+Any input would be appreciated at this point.",https://www.reddit.com/r/personalfinance/comments/ls5j1l/mom_passed_could_use_some_helpful_advice_as_to/,1614256251.0,29,29,0
+45,Two part time jobs need advice,"So I’m working two part time jobs one is being an assistant manager getting paid 13.99 hr and the other pays 13.69 but I’m ganna get a .50 cent raise soon. I’m working 7 days a week and only get two half shifts a week. I’m 6,000 dollars in debt but have almost 3,000 saved up I don’t know if I should stop working one job so I can rest or not.",https://www.reddit.com/r/personalfinance/comments/lsoadr/two_part_time_jobs_need_advice/,1614308496.0,2,2,0
+46,Unemployment taxes from 2020?,"Hi, everyone! I'm not sure if this is a question for PF or r/taxes, honestly, but I thought I'd start here since it seems to still fall into the category. 
+
+I can't seem to remember whether or not I had taxes withheld for me from my unemployment, or if I chose to do it myself? Is there a place on my unemployment site that I can see what I chose? Apparently idk what terms to use in order to find this info on google, cuz it keeps pulling up stuff about withholding it yourself. But, I can SWEAR that I remember the ability to have them withhold it for you. I'm in Wisconsin, if that makes any difference. 
+
+So, long story that probably doesn't even matter ahead; read at your own risk.
+
+I applied for my benefits pretty late, spent a very hazy week and a half on the phone with them daily for 5+ hours, and jumping thru hoops. (I don't like to think about it, because it was grueling and traumatic, lbvs) I had a really weird case, and I was consistently having to either call other departments, or sit thru being bumped up tier-by-tier to the top. Basically, in the end, I got the number for a dept that did all of my application via phone, including all of the past weekly claims. I did the entireity of my app online prior, but can't remember if I had already been denied when I did it via phone call. 
+
+Anyway. Got denied for the first benefit year they established, and tbh, I kind of just gave up. Someone gave me a call a few months later and I had been w/ my son, so I asked if I could call back. She said yes, but if I didn't, they were going to make whatever decision they needed for me. Of course, I spaced and did not call.
+
+Fast forward to the second stimulus. I check my bank account and have 6K more than I expected. It all came thru at once in mid December, but I never got any notification saying it came in, so I wasn't even aware. 
+
+I just started renting my first place with my son, and I'm to figure out what my finances are gonna look like over the next few months. I don't do my own taxes, and they're being done late this year due to some missing w2s, otherwise I'd ask them. I have enough stashed away to pay the 10% but, of course, I'd PREFER to use that money for other things. Like a bed, since I live on an air mattress. 🙄
+
+&#x200B;
+
+Thanks everyone!",https://www.reddit.com/r/personalfinance/comments/lso5mi/unemployment_taxes_from_2020/,1614308182.0,2,2,0
+47,What should I do with my roll over ira?,I have a roll over IRA account. I ended up adding $50 of my own money into it. All of the money in it is sitting in “SPAXX.”  Should I continue adding money to this account and use it as my ira account to save for retirement or should I make a second ira account that is traditional? I also heard that one is not FDIC insured. But I’m still a little confused on that.,https://www.reddit.com/r/personalfinance/comments/lsrw6z/what_should_i_do_with_my_roll_over_ira/,1614321675.0,1,1,0
+48,How's my budget?,"21 years old
+Take home after taxes and 10% to retirement (employer starts matching 5% in a few months) is ~4300
+
+Rent: 599
+
+Car: 545
+
+Insurance (Renters+Auto+healthcare): 250
+
+Food: 350 (high end, have been doing one of those food delivery things because my schedule is so hectic)
+
+Utilities: 100
+
+Misc: 100
+
+Total: ~2000, leaving ~2300
+
+I add 400 a month to savings and have been putting the rest into paying off my debt
+
+
+Debt: CC with <2500 @9.65
+
+           Auto loan 34000 @3.99 (just got a newer car with a 8 year warranty, and yes I did read the fine print to ensure it's not a scam haha)
+
+Finishing up undergrad right now, full tuition scholarship. Est salary post grad ~70k unless I decide to pursue grad school.
+With my GI Bill and grants I'll be eligible for, my income will still surpass expenses, already ran the numbers.
+
+Edit: formatting",https://www.reddit.com/r/personalfinance/comments/lsrs83/hows_my_budget/,1614321204.0,1,1,0
+49,W-4 2021. I am unsure....,"My wife started a new job. It’s been a long time since I filled out a w-4 and she is asking me how to do it. From what I remember, if she claims dependents (we have 3 kids)...that will result is less taxes taken out of her paychecks. 
+
+1. Does she have to claim the dependents on this form?
+2. If she does claim them, I assume that we won’t get the 6k child tax credit on our 2021 return?",https://www.reddit.com/r/personalfinance/comments/lshu27/w4_2021_i_am_unsure/,1614289693.0,3,3,0
+50,Recently Self-Employed - Mortgage Still Possible?,"I recently quit my job to focus on my business and wondering if it will hamper my home mortgage eligibility. Details as follows:
+
+I started my home search about a year ago. At that point in time, I was pre-approved for a $300k mortgage. I was employed (and had a side gig), making around $120k a year ($100k salary job, $20k side gig). A few months ago, I quit this full time job to focus on my side gig. Based on the last 3 months of income through self employment, I should make as much as last year if not more. However, based on some recent googling, it's looking like its much harder to get a mortgage if self-employed, especially without 2 years of history. 
+
+Anyone here have some insight on implication of this recent career move? Anything I should look out for when shopping for a mortgage? 
+
+Also, this is purely an investment property and I already have renters (family) lined up that will cover mortgage + approx $1,000/month profit - will this information help in getting a mortgage?
+
+Thanks!",https://www.reddit.com/r/personalfinance/comments/lsnwwi/recently_selfemployed_mortgage_still_possible/,1614307528.0,2,2,0
+51,Should I pay off student loans in one shot?,"I’ve still got about $4000 in student loans at 4.55%.
+
+I’ve got $14,000 in savings and a few thousand more in checking.
+
+I’ve also got about $3000 in mature savings bonds I am planning to open an CD with.
+
+I know at the savings account rate I’m probably further ahead paying off the loans.  I’m already paying about double each month to bring them down (about $500-600 a month). 
+
+The reason I have not paid off yet, is I like having an emergency fund.
+I’m employed, with almost no risk of losing my job. Possibility of a few weeks of furlough with Covid tightening of the belt. 
+
+My goal once our off would be to essentially put the money back into savings each month.",https://www.reddit.com/r/personalfinance/comments/lsnwcn/should_i_pay_off_student_loans_in_one_shot/,1614307477.0,2,2,0
+52,Issues with moving old 403b to new 401k with a diff employer??,"I am trying to move my old 403b (through VALIC) to my current 401k (through Fidelity). Apparently this requires a form to be completed by my old employer, and there’s been a 3-month window for them to indicate the % of the employer contribution I’ve vested so they can transfer the right amount. The issue is that my old employer has refused to respond to complete the document. 
+
+I’m just running circles on completing a new document and request every 3-months, since the document “expires” by a certain date. 
+
+What choice do I have here? Keep filling out the document all year long? Just let the money sit in that account until I do retire and it’ll auto-release...? I just really preferred everything in one place.",https://www.reddit.com/r/personalfinance/comments/lsnuqn/issues_with_moving_old_403b_to_new_401k_with_a/,1614307368.0,2,2,0
+53,Closing disclosure vs Total due at closing,I am closing on my first home tomorrow. I acknowledged my closing disclosure last Friday and today I got my final closing docs and the cash due at closing is a different number than in my closing disclosure. Is this normal?,https://www.reddit.com/r/personalfinance/comments/lsl9z7/closing_disclosure_vs_total_due_at_closing/,1614299302.0,3,3,0
+54,"Those in commission-based positions, when do you expect to receive your commission for the month?","I work a sales position, where a little more than half my salary comes from commission. 
+
+At my company, it is a manual process where one admin assistant must figure out what all the sales reps made in commission after the previous month closes.
+
+The past few months, the first business day of the month falls on the same week as payday. The person who determines commission has until Wednesday to get those numbers into payroll, but it never happens. For example, I won't see my February commission until March 19.
+
+When things like this are brought up to management in my company, they push it back on you, saying things like ""so sorry you are in a bad place financially and can't wait an extra 2 weeks for your commission.""
+
+I have avoided bringing up this issue again, but I feel like this is sort of unacceptable. It is unfair to all the sales reps, but mostly to my direct co-worker, she and I receive less salary than the others and rely more on our commission paychecks.
+
+Trying to figure out if I am being unreasonable or if my employer is being uncaring. Those in commission-based positions, when do you expect to receive your commission for the month? 
+
+Thank you!!",https://www.reddit.com/r/personalfinance/comments/lsns73/those_in_commissionbased_positions_when_do_you/,1614307212.0,2,2,0
+55,Payoff Finance Phone or Not,"I have sprint and I financed a note 20 back in November at 0% interest over 24 months.
+
+Lately, I have been trying to reduce monthly bills and here's the senerio. 
+
+My monthly Sprint bill is approximately $200 to $250 a month. If I pay off the 916 currently left I could switch over to Google Fi at 30$ a month. 
+
+Over the next 12 months I would pay about 3k in sprint bills compared to Google Fi $360 & $916 phone pay off equals $1,276  a savings of  about 1700
+
+The catch us I'm pulling the 1k out of another savings bucket which I'll need to use in exactly 12 months. So I will need to replinsh this by about 50 a month for the next 12 months. 
+
+It sounds like a no Brainer but I am seeking other people's thoughts.",https://www.reddit.com/r/personalfinance/comments/lsl46s/payoff_finance_phone_or_not/,1614298811.0,3,3,0
+56,How to pay interest portion of a credit card that has 0% financing on original purchase with automatic payments.,"I have a retail store credit card that I purchased a computer on. It had 0% interest on the original purchase (18 months 0%, with 18 equal payments that are automatic). It has pretty good cash back bonuses on subsequent purchases. I want to use this card to take advantage of those rewards. Is there a trick to pay both the minimum 0% interest payments AND be able to pay off the future monthly *added balances in full*?",https://www.reddit.com/r/personalfinance/comments/lsnmqa/how_to_pay_interest_portion_of_a_credit_card_that/,1614306727.0,2,2,0
+57,Choosing the right bank account.,"I'm 18 and new to the whole banking scene. I plan to go to college this fall and have no idea where to start when it comes to choosing the right bank/ account for me. I'm not exactly sure what college I want to go to yet so I want a bank account that is flexible with ATMs so that it wouldn't matter where I went or if I switched colleges in the future. I so far am looking at Charles Schwab, Captial one 360, or chase Bank for credit accounts, and DCU or PNC for savings because I have heard good things about them. What do you guys think of my choices and what banks would you recommend for a young college student like me? also, what should I pay attention to when picking out my bank account.",https://www.reddit.com/r/personalfinance/comments/lsnkc4/choosing_the_right_bank_account/,1614306507.0,2,2,0
+58,"Sent debt validation letter and after 30 days got no response, what is my next step?","I have a collections debt of around 450 dollars that was sold from Windstream communications to  LVNV FUNDING LLC. The debt was due to a cable bill in my name in 2015. The bill was in my name but I am not aware of how the 450 debt came to be on the account. I sent out the DVL certified mail and it has been over 30 days with no response. The agency has never attempted to contact me.
+
+If the debt is legit I have no problem paying. I just want it off my credit report. I am not sure what my next action should be. Do I need to send another letter or should I attempt to dispute the debt with all three credit  bureau? Any info or questions would be appreciated thank you!",https://www.reddit.com/r/personalfinance/comments/lsnjnt/sent_debt_validation_letter_and_after_30_days_got/,1614306457.0,2,2,0
+59,"So, I got laid off today for the first time ever. Not panicking, but my mind is definitely racing. I am considering cutting my losses and moving out of state.","I had the stupid idea in my head that if Covid didn't get us yet, then we were secure. I am (or was) a W-2 contractor for a private company. I got the email today that we are losing the contract I'm on, with no transfers possible, as this was my company's (only?) account effective 3/31.
+
+I do have savings, a good chunk, but I'm going to be extremely hard pressed to find something even close to what I was making in a new job. I am thinking of skilling up and getting certs for industries adjacent to the one I was in, but now with the loss of my main income I must choose very wisely or I risk dumping cash I can't afford to lose on an unprofitable pursuit and eating into my E-Fund the whole time. 
+
+I'm also considering moving out of NY to the midwest, maybe Minnesota or Ohio or some place like that, but that's going to be expensive, time consuming and there's no guarantee employment in those states are any better for the average guy or gal competing for basic gigs. Are there decent gigs out that way, think HS Diploma holder jobs?
+
+I'm venting more than anything. What should I prioritize? Just get any job ASAP? Unemployment? Start researching the potential move out of state? Figure out how to rollover my 401K? This is just crazy man, completely out of left field, 0 telegraphing and then BAM, fuck you, you're gone, all of you!",https://www.reddit.com/r/personalfinance/comments/lskzc4/so_i_got_laid_off_today_for_the_first_time_ever/,1614298403.0,3,3,0
+60,What should I do with my extra savings?,"So I'm in my early 20s here making \~80k a year. Right now I'm contributing 15% (my contribution) + 7% (employer contribution) to my 401k plus another $250 per month in my roth ira and have no debt. The pandemic has significantly cut my cost of living and my cash savings have gone beyond what I'd need for a 6 mo. emergency fund. **What should I do with an ""extra"" 20k of cash savings?** I'd like to eventually buy a house but not for a while longer like in my early 30s (in \~10 years) Any feedback is appreciated. Thx",https://www.reddit.com/r/personalfinance/comments/lsrdd3/what_should_i_do_with_my_extra_savings/,1614319505.0,1,1,0
+61,"Should I sell truck to pay off high interest credit card debt? Raise my credit, then finance another truck?","Hi all, this is my first post here but I would appreciate some feedback. Currently, I have about 14k of credit card debt and an 8k personal loan, so about 20k debt total. All due to unfortunate family issues (I am actually very smart with my money) Both are costing me about $750+ every month, yet I am getting killed by interest, and feel like I am barely making a dent. I am unable to allocate more in my monthly budget to help offset the debt. It's also hurting my credit score (currently around 635) because of my 95+% utilization 
+
+However, I have a newer truck that I have completely paid off. KBB value is around 32-35k. My plan is to sell the truck, get the 32-35k and pay off all of my 20k debt completely. Then, I will have around 12k-15k left from the sale. Then, I would use this as a large down payment on another similar truck to the one I sold. After receiving loan quotes, it looks like I could get something similar for around $500 -$550/ month. Overall, this would 1. lower my monthly payments 2. wipe out high interest debt, 3.raise my credit score, and 4.  the monthly bill would be put into an asset (even though it's one that's deteriorating) rather than all that money going to high interest debt. To me, it seems like a win win. 
+
+I have a few questions/ issues though. First off, I would like to have a similarly nice truck. I make decent money, and I am required to have a nice, reliable truck for work. I also drive many high profile clients around on a weekly basis so I would like to have something similar to what I have now.
+
+Secondly, I wouldn't want to try to qualify for the loan with my current credit score. I would want to wait until I have wiped my total debt to 0, which once it reflects, would raise my score well above $725+ (aka lower interest and more flexibility). However, I will still need a truck in the meantime. I'm wondering how long will it take to reflect on my credit once I completely pay off all of my debt? Secondly, the idea now is to rent a truck in the meantime until that credit change reflects (hopefully only a month or so). I'm not sure, but something still seems a little risky selling my vehicle and banking on waiting for a credit score update because obviously it's not viable to rent a truck on a monthly basis for long.  However, once it does, I will take the 12k to put down, get a low interest loan, and get a similar truck. Am I missing something or does this make sense? 
+
+Sorry for the length of the post, and any grammar issues. I am just trying to get all the details across. Any and all feedback is appreciated. Thanks so much!",https://www.reddit.com/r/personalfinance/comments/lsrco9/should_i_sell_truck_to_pay_off_high_interest/,1614319428.0,1,1,0
+62,"Wells Fargo has lost $10,000 of mine (my daughters college fund)",,/r/Banking/comments/lsr99l/wells_fargo_has_lost_10000_of_mine_my_daughters/,1614319187.0,1,1,0
+63,Lost Credit Card Dispute,"Hi everyone,  first time PF poster, here. I did check the wiki and searched previous posts, but didn't feel like any of the scenarios matched mine closely enough, so here I am!
+
+I recently opened a dispute with my Chase credit card. In early February,  I received a notification from Chase that a $5000+ charge had been made to my credit card to Amazon Web Services. (I get automatic emails over a certain dollar amount.) I do not have an account with AWS, have never done business with them, am not an IT professional, etc.
+
+As soon as I saw the email, I contacted Chase. This was less than half an hour after the time stamp of the email. They advised me that I couldn't dispute the charge until it posted. In the meantime, I asked for a new card and attempted to contact AWS. FYI, AWS is super HARD to get ahold of; they even say somewhere on their site that they don't have a published phone number. I filled out an online form for the sales department,  but never heard back. I called ""normal"" Amazon to no avail; they couldn't help. I also filed a police report to cover myself further and created a timeline of every step I took which I emailed to myself so I would have a date and time stamped version of what I did.
+
+Fast forward a couple of days, the charge posts, and I contact Chase to dispute it. I mention everything that I had done, including that I had filed a police report, but they said they didn't need a copy. They remove the charge from my account, send me an email confirmation,  etc.
+
+Today, I received a letter in my account inbox that I would be responsible for the charges because I ""received benefit from the charge."" That's it, no further info on HOW I benefitted, which I didn't because I didn't do any business with AWS. I tried to call Chase Fraud, but they were closed by the time I called. My husband did some digging and found another online form for AWS to use if you have an account issue. So, I sent them a huge wall of text about my issue. I haven't heard back because it's after business hours, etc.
+
+So, what is my next step? Continue to pursue with Chase? Wait for AWS? File complaint with FTC? Send tweets/post messages on Facebook to one or more of the above companies? Get a lawyer? I have some free time tomorrow and am open to suggestions! Any help would be appreciated!",https://www.reddit.com/r/personalfinance/comments/lsn7ev/lost_credit_card_dispute/,1614305348.0,2,2,0
+64,"5 year old, peviously found fraudulent loan has been reverified.","So I'm having trouble getting anywhere with this debt collector. 
+
+They have told me they have been hired to collect this debt but do not own it. They are reporting to credit bureaus of a delinquent account. 
+
+When I ask for the loan application or account info where money was sent they say they do not have it, and I can get it from the original creditor. 
+
+The current creditor that I'm told owns the debt will not talk to me. 
+
+When I ask the original creditor they will not give me any information because they say the account is closed and have sold the debt.
+
+I have filed a police report and sent it to the supposed current owner of the debt and the contracted collector is telling me the current owner reverified the debt and the previous police report is no good because there is no suspect named.
+
+Who is required to show me the original loan application?",https://www.reddit.com/r/personalfinance/comments/lsn57e/5_year_old_peviously_found_fraudulent_loan_has/,1614305157.0,2,2,0
+65,"Emergency fund is finally complete, what should I do now?","Scenario:
+
+27 years old
+
+6 months salary in emergency fund
+
+$200-$600 left over each month after bills
+
+**Should I keep saving or should I start investing? Where should I Invest? What should I be doing with this money? Any help will be greatly appreciated!**",https://www.reddit.com/r/personalfinance/comments/lsa9im/emergency_fund_is_finally_complete_what_should_i/,1614270006.0,12,12,0
+66,Free tax filing for previous years?,I want to file my taxes for free online but I have a W2 from 2019 I want to file as well. Do any free filing services offer this option?,https://www.reddit.com/r/personalfinance/comments/lsr4n9/free_tax_filing_for_previous_years/,1614318557.0,1,1,0
+67,Are direct deposits delayed?,"Does anyone know if direct deposits are currently delayed because of what happened the other day?
+I usually get my work check direct deposited every Thursday by 11pm and nothing. Desperately waiting on it for essentials. Any insight on how much longer I'll be waiting :/",https://www.reddit.com/r/personalfinance/comments/lsqzjg/are_direct_deposits_delayed/,1614317975.0,1,1,0
+68,"1098-T, being taxed on scholarship?","I am a PhD student who is fully funded, so my tuition is waived and I receive a stipend amount per month that is taxed. 
+
+I am doing my taxes through the free TurboTax system. I was set up to get a nice return but when I submitted my 1098-T, my return went from 1.3k to me owing 15k. In box 1 is my full tuition for the year (60k) and in my scholarships box it is a number over this amount (65k).  Am I being taxed on this scholarship amount? Why? This money never went into my pockets. Maybe I am filling something out incorrectly? I was on a NIH fellowship for 6 months in 2020 but that was true in 2019 and I didn't have an issue then (just got dinged for underpaying since I didn't do quarterlies). 
+
+(I also have the graduate student box checked).",https://www.reddit.com/r/personalfinance/comments/ls4xpi/1098t_being_taxed_on_scholarship/,1614254173.0,27,27,0
+69,Landlord charging me over $2K in repairs and also entering my apartment without asking (CA),"I live in SF and have been paying rent on time for 2 years for my in-law unit ($1900/mo). I gave my notice to move out and my landlord is being very nit picky about everything in my apartment. 
+
+She made me do an initial walk through and listed out a bunch of stuff I needed to do:
+
+- professional cleaning
+- steam cleaning carpet 
+- change light bulbs on ceiling 
+- get yard cleaned 
+
+She has $2700 in deposit and so far I’ve already paid $700 for the backyard weed pulling and for the door to be fixed out of pocket. Now she is asking for $1K for me to replace the carpet because she doesn’t think steam cleaning will be enough, she says she is going to take this out of the deposit.
+
+OK. I agreed to all of this. I begin moving things out last weekend but still had some stuff and valuables at my place. The day I move my bed out the landlords son (who also lives in the house) was in my room and using the back yard. Without telling me. Today, 2/25, I come back to start moving more things out and they have a bunch of gardeners moving things and cutting palm trees without ever giving me notice. My bf and I were planning on working there while packing and my bfs meeting went really bad because there was a bunch of background noise. 
+
+I just feel like they haven’t been very nice or gracious towards me and now this was the final straw. 
+
+I let them know besides being inconsiderate, it’s illegal for them to enter while I’m still paying rent and before the walk through. And they didn’t even tell me! If they had told me I wouldn’t have planned to take a meeting from there. 
+
+My bf says I should ask for the full deposit back since I could theoretically sue them for trespassing. Not sure what to do or what to tell them. Help!",https://www.reddit.com/r/personalfinance/comments/lsqlxe/landlord_charging_me_over_2k_in_repairs_and_also/,1614316498.0,1,1,0
+70,Can you use a T2200 tax form even if you weren't working from home?,"I worked with a company that made me drive my own vehicle 2.5 hrs a day to and from work and never compensated me for gas or miles. They also never reimbursed me for gas that I put in their own work vehicle when they said they would.
+
+I was told by an accountant to get my employer to fill out the T2200 form so I could possibly get a return from it.
+
+When I asked them for the form they said this: ""To complete the T2200 I would need to amend your T4 from 2019 for the use of a Company vehicle (Section 5), as you were provided the truck to drive to and from site which is considered personal use and you are required to pay taxes on that mileage."" ( <- which is untrue, I only drove this truck a quarter of the time- other than that it was my own personal vehicle)
+
+What does amending my T4 mean ? Will getting this form filled out impact me negatively?
+
+Edit: And what is the difference between a T2200-s vs T2200??
+
+Thanks !",https://www.reddit.com/r/personalfinance/comments/lsmgdh/can_you_use_a_t2200_tax_form_even_if_you_werent/,1614302946.0,2,2,0
+71,"I'm trying to make a spreadsheet or tracker of some sort to visualize my savings goals easier, but I can't figure out anything that works","I have money in a general savings fund (a SoFi debit account that earns interest, though that will probably change once I look into savings accounts), but I'm looking to make a tracker where I can see progress towards my goals. 
+
+SoFi has a vaults feature where you can put aside a certain amount of money, and it will keep earning interest but it has a piggy-bank-like barrier. You can dip into it whenever you want, but SoFi can't touch it if you don't want them to. That's a good step in the right direction, but do you guys have any methods that have worked better for you? I'm no stranger to manual spreadsheets and would be happy to go that route if it works well.",https://www.reddit.com/r/personalfinance/comments/lsqijr/im_trying_to_make_a_spreadsheet_or_tracker_of/,1614316138.0,1,1,0
+72,I was Scammed by Transferwise,"I transferred money in to my account, they told me my document could not verified and I have no option to transfer money back, now my account deactivated which mean my money is in Transferwise and I have no way to get it back.",https://www.reddit.com/r/personalfinance/comments/lsqfqj/i_was_scammed_by_transferwise/,1614315840.0,1,1,0
+73,Looking for advice on applying for my first credit card.,I'm 31 and have no credit so I want to get a credit card to start using only for groceries and gas so I can slowly build some up. I'm looking for something simple with some kind of points or cashback I can accumulate that is relevant to the purchases I'll be making with it and am looking for any advice or recommendations that anyone has.,https://www.reddit.com/r/personalfinance/comments/lsqenp/looking_for_advice_on_applying_for_my_first/,1614315737.0,1,1,0
+74,What do I need to qualify for an FHA Loan?,"So I live in northern California so the houses are clearly very expensive. I am planning on starting to save up for the down payment very soon and maybe buy the house in \~5 years. What I am worried about is the debt/income ratio. For a house in a reasonable area it will cost 500k. Which I believe would mean I would need about 80k in income to qualify for the loan (at current rates). If say I bought a duplex lived in one unit rented out the other, would that allow me to qualify for the loan because it would lower mortgage burden?
+
+For context, I am very good with my money although I just started building credit I would be surprised if I had 750+ credit score by the time I need the loan and the down payment is not a problem. Especially considering you can put very little down (ik you will have to pay pmi)
+
+Let me know if i've got anything wrong and anything I can do to afford a house, and no I can't leave the state, however much I would like to.",https://www.reddit.com/r/personalfinance/comments/lsqdjp/what_do_i_need_to_qualify_for_an_fha_loan/,1614315630.0,1,1,0
+75,Are eBay Bucks taxable income?,"So on eBay, every time you buy something you earn “money” that you can use to buy even more stuff called Bucks. Bucks are given at a rate of 1% of whatever the price of what you bought was. Bucks are accumulated for 3 months and then available for use at the end of that period. So for example if I buy something on eBay for $10k I get $100 in Bucks. Does that count as taxable income?
+
+Sorry if this is a dumb question.",https://www.reddit.com/r/personalfinance/comments/lsqc5i/are_ebay_bucks_taxable_income/,1614315498.0,1,1,0
+76,Cheap (lesser known) Masters Degree vs. Expensive (well known) degree?,"Hi folks,
+
+Masters admissions season is happening now and I’m trying to decide where to go from a money and ROI perspective. 
+
+Here’s my situation: I am pursuing a masters in a tech related field because what I studied in undergrad is underpaid everywhere and is extremely hard to find a job in (industrial design). I got lucky and got a job out of over 800 applicants, but I never want to go through that process again if I can avoid it. I want something that is in more demand. 
+
+I’ve got into some programs for a new field that is very related: UX & Human-Computer Interaction. 
+
+Should I go to the brand name schools? ~$60-80k but they have great industry connections and the students land great tech jobs making between 125-160k. These “name brand” schools sometimes have co-ops with large companies as well. 
+
+OR... 
+
+Should I attend a state school (still a good program) that is under $20k for 2 years and can be done remotely so I can keep my job. My job also offered to help pay for part of it. In this case, they offered to pay for the whole thing. The program is online, but they’d been doing distance learning long before Covid. It’s an established school and a land grant university. They don’t hand-hold you as much for getting a job, but they also have some career fairs and some good connections from what I can tell. 
+
+Thank you in advance!
+
+
+TLDR: should I go to a name-brand school for masters or attend my masters online at a lesser known (but still good) program that my company will pay for?",https://www.reddit.com/r/personalfinance/comments/lsqb39/cheap_lesser_known_masters_degree_vs_expensive/,1614315390.0,1,1,0
+77,Needing help paying estimated taxes as an independent contractor,"I am an independent contractor for an e-commerce company in VA, and I want to pay quarterly taxes as well as correctly estimate taxes for the year, as I do not want to pay a penalty for paying them all at the end of the year. I have access to my IRS website also, but it says I owe nothing. This is my first time doing this, any help is much appreciated. Thank you in advance.",https://www.reddit.com/r/personalfinance/comments/lsjb6i/needing_help_paying_estimated_taxes_as_an/,1614293684.0,3,3,0
+78,Refinance Lender Competition,"I am deciding between two online lenders to refinance my mortgage.  Both are very favorable, is there any way to “pit” them against each other to try and negotiate the best offer?",https://www.reddit.com/r/personalfinance/comments/lsjb1a/refinance_lender_competition/,1614293674.0,3,3,0
+79,Looking for a good bank.,"I’ve just gotten my first job and am currently looking for a good bank to use. The only requirements I have are that it’s got a decent reputation and has online banking. I’m in the area of Maryville, MO if that helps.",https://www.reddit.com/r/personalfinance/comments/lslyab/looking_for_a_good_bank/,1614301366.0,2,2,0
+80,What’s the best and safest budgeting app?,I’m interested in learning to budget and take notice of where my money is being spent. I’m aware of manually putting in budget number in a spreadsheet but I feel like automatically doing it on an app would be easier. I’ve heard about king and clarity but the safety thing gets be concerned. Especially the part about giving up bank info,https://www.reddit.com/r/personalfinance/comments/lsq526/whats_the_best_and_safest_budgeting_app/,1614314762.0,0,0,0
+81,Pay off credit cards with signing bonus or save and use a 0% apr card to pay it down over time?,"Hi PF, I will start a new job next month that gives out a signing bonus upon start of $12,000. For my location, that comes out to about $7500 after taxes. I have $4600 in credit card debt and not much in savings, $3k in investments and $1800 in a Roth IRA. I plan on moving out from my parents home in the summer so I'll have to furnish an apartment in a few months.
+
+The question is, do I spend most of my bonus on debt to be cc debt free and just have student loans and a car payment? Or do I save for first/last month's rent and apartment costs and sign up for a 0% 18 month credit card? I can amass about $8k in savings before I move out and would love to get started on an emergency fund. 
+
+Student loans I'm not worried about with the moratorium, but I'd like to save for another car/home in the next 24-36 months.",https://www.reddit.com/r/personalfinance/comments/lsh2ln/pay_off_credit_cards_with_signing_bonus_or_save/,1614287624.0,4,4,0
+82,ROTH vs Traditional 401K,"Hey everyone, I was advised that I should open a traditional 401k opposed to a ROTH 401k due to the fact that the pretax contributions Lowers my overall taxable income and could save me money in the long term. 
+
+What are your all thoughts on this? I am 25, and just started making low 6 figures and want to ensure I do what is best as I plan for retirement. I would greatly appreciate all advice and arguments for either traditional or ROTH pathways. Any additional resources to look into would also be greatly appreciated. 
+
+Thank you!",https://www.reddit.com/r/personalfinance/comments/lsq29r/roth_vs_traditional_401k/,1614314476.0,1,1,0
+83,"My mother, whom I am no contact with, has started adding my email address to her credit card accounts (among others). What can I do to stop this?","I have been no contact with my mother for almost 4 years, and I have no desire to have any contact with her again (and have told her as such).
+
+However, I have started receiving emails from her various financial institutions, credit cards, car dealer, etc.  All of the emails are legitimate, and not phishing, however, the corresponding organizations cannot make ""a major change"" to the account without the account holder's permission.
+
+What can I do to fix this?
+
+Thanks!",https://www.reddit.com/r/personalfinance/comments/lsf8a0/my_mother_whom_i_am_no_contact_with_has_started/,1614282760.0,6,6,0
+84,Home Refinance debt checks,"I just did a cash out refinance.  The cash out was to pay off about 5 lines of credit, loans, etc. 
+
+I should have asked but I thought I was going to get one personal check for me to pay off the debt myself 
+
+I got a check for each account with a pay to the order of each company to pay off based on what my credit report showed as the balance. But the refinance took a few months. So my balances are now less. 
+
+Do I just send these checks to the companies and expect them to return the extra payment to me?  Do I call each one and see how they will treat it. I don’t want the accounts to be in negative. I want to put that money back into my new mortgage 
+
+With these checks. Do I have to mail them or can a check be used to make a electronic payment?
+
+Also. It’s recommended to keep these accounts open right. And not close them or use them at all. Just to keep credit score high. Or is that wrong?",https://www.reddit.com/r/personalfinance/comments/lspz1p/home_refinance_debt_checks/,1614314150.0,1,1,0
+85,"New job requiring I get paid as independent contractor, what should I worry about?","Hey, so my new boss has told me that I'll be getting paid as an independent contractor. He'll be sending me a fixed amount each week, but that is it. So far the only thing I'm aware I need to do different is set aside a percentage of it for taxes at the end of the year, is there anything else that I should worry about?",https://www.reddit.com/r/personalfinance/comments/lslp0l/new_job_requiring_i_get_paid_as_independent/,1614300601.0,2,2,0
+86,How do you compare home lenders & ensure you are getting the best deal without destroying your credit?,"My wife & I are currently in the process of deciding between a regular home loan & building a home, & while previously we just went with a recommended lender, the possibility of 2 types of loans has forced us to reach out to multiple lenders, & as I dig deeper into it, the less confident I feel about choosing a lender. There all these pages on variables like closings costs, fees, & other costs on top of the rate, but none of this stuff is just advertised for you to see & the last time we were approved we weren’t allowed to know anything until after we were already pre-approved. 
+
+
+So how do we shop around with lenders quicker? or at the very least prevent our credit from taking a huge hit from the amount of times it is pulled. 
+
+
+I had heard that your credit can only reduce a certain amount within a time period when getting approved for a home loan. Is this true? & if so, how does it work so that I can better understand how to go about this.
+
+
+There are plenty of sources online telling you WHAT to compare, but no sources I can find that tell you HOW to compare them. So if anyone could help us out here, I’d very much appreciate it because currently it feels like taking a shot in the dark.",https://www.reddit.com/r/personalfinance/comments/lsgr4x/how_do_you_compare_home_lenders_ensure_you_are/,1614286789.0,4,4,0
+87,TIAA Investment Questions,"35 years old and wanting to make sure I’m planning appropriately for retirement. I have kept the default multi-asset allocation setting for my TIAA account for too long at this point. I’m wondering if anyone here is familiar enough with their products to suggest some wise moves. I don’t watch my account for losses/gains very often since I know I have time on my side still and there’s no point in worrying about short-term movement. However, the slow growth I’m seeing thus far makes me feel like I’m not making the most of what I have access to. 
+
+I have been at a large institution for a number of years but haven’t paid much attention to my retirement investments. My employer has paused their matching program for now (should be picking back up in July), but quarantine has given me the gift of more time to think about the future and get my finances in order. 
+
+I’m maxing out my contributions, just trying to figure out the best place for those contributions to grow.",https://www.reddit.com/r/personalfinance/comments/lspujt/tiaa_investment_questions/,1614313681.0,1,1,0
+88,401(k) Allocation,"Hi everyone, 
+
+I've signed up for my 401(k) and am going to contribute the max. Was just wondering how I should allocate the funds, especially for international funds. For domestic, I'm mainly looking at Vanguard funds, but I'm open to suggestions. I've included just the ones that have outperformed the Vanguard funds the past ten years (but I can include them if that's better), Fidelity funds, and international funds. Right now I want to allocate roughly 40% VINIX, 20% VIMAX, 15% VSMAX or so and the rest in international, maybe 5% in bonds or something like that. But I'm also considering RGAGX, though that might just be performance chasing. On international, I'm completely open. I don't like VTMGX that much, and OGIYX and GERUX do look nice. Thanks for your help!
+
+RGAGX - 0.30% Expense Ratio
+
+DFIEX - 0.28% (Global)
+
+FMCDX - 1.14%
+
+FCNTX - 0.85%
+
+FEQIX - 0.60%
+
+FPURX - 0.55%
+
+GERUX - 1.16% (Global)
+
+ACSHX - 0.52%
+
+OGIYX - 0.84% (Global)
+
+FLMVX - 0.84%
+
+UBVFX - 0.86%
+
+TRBCX - 0.69%
+
+VTMGX - 0.07%
+
+VINIX - 0.03%
+
+VIMAX - 0.05%
+
+VSMAX - 0.05%
+
+Edit: 26 years old",https://www.reddit.com/r/personalfinance/comments/lsptio/401k_allocation/,1614313567.0,1,1,0
+89,Should I pursue a new role at a different company?,"I moved from an MCOL area to an HCOL area. Unfortunately, I underestimated how much it costs to live in the Seattle area. I started this job about 4 months ago. I cannot say they are treating me badly as they have given me a 2.24% raise from the performance period of October through December. Pay raises seem to average 3% to 6% anually. I also receive a bonus of 5% of my pay and a COL lump sum of 2% a year.
+
+I make 148K a year and have no debt other than a 700K mortgage which I am sure you can understand takes up 42% of my income which is causing me to feel the pinch. I am however still able to maximize my 401K and both my wife's and I Roth IRA. Additionally, I am able to put about $400 a month into a brokerage account. We have a full 6 months of living expenses. Our children are young so my wife is a stay-at-home mother for the next few years.
+
+I was thinking of looking for work in the 190K to 220K range which would give us more breathing room and bring the mortgage down to about 25% of take-home pay.
+
+Would you all agree with this approach?
+
+Is seeking a job 4 months after starting a large well-known company a bad idea?
+
+For a better background, I was employed at my last company for 6 years while holding different positions so my resume doesn't indicate I am a habitual jumper.
+
+I love the company I work for now and the work I am doing is exciting. The company has run into hard times over the past few years especially since covid. I kinda feel betrayed they would bring me on to possibly face a layoff a few months later after moving my family halfway across the country at my own expense. However, I know how corporate America is, once you're locked in raises/promotions can be hard to come by. Not saying this is the case here yet. But I made the mistake of waiting around at my last company for promotions/pay to increase exponentially and it never did. I about doubled my salary here but being in an HCOL area it was almost offset.
+
+Would you all think it would be appropriate to find work in the pay range above in consideration of the information in this post or should I stick it out and hope for the best? ",https://www.reddit.com/r/personalfinance/comments/lspsn9/should_i_pursue_a_new_role_at_a_different_company/,1614313472.0,1,1,0
+90,ROTH IRA or 457b?,"My work has a 457b plan that matches 10% of what you put in up to $500 a year. I’ve recently been reading that a ROTH IRA is better from David Ramsey and other sources online. 
+
+What would the best move be for me? I was thinking about rolling my 457 into a Roth.",https://www.reddit.com/r/personalfinance/comments/ls7a4w/roth_ira_or_457b/,1614261895.0,14,14,0
+91,Mortgage Amendment ARP vs Interest Rate,"We are currently looking into refinancing and our current lender is offering a loan amendment instead of a refinance for lower interest rate.
+
+They key point that I am confused is the following text “Because this is a loan amendment and not a new loan, your annual percentage rate won’t change”
+
+When I look up ARP I get the following “The annual percentage rate (APR) is the amount of interest on your total mortgage loan amount that you'll pay annually (averaged over the full term of the loan).”
+
+Our interest is going down and our monthly payments is less. The total time left to pay the mortgage doesn’t change. Why wouldn’t our ARP go down? Is there hidden fees or something I am missing?
+
+Side note: I know amendment tend to be for people struggling with payments and can affect credit score. This specific amendment states “this loan amendment  option is not intended for customers who are experiencing financial difficulties.” So I assume it shouldn’t affect our credit score?
+
+Edit: adding general info. 
+We are 3 year in a 30 year fixed rate mortgage. 
+We are reducing the interest rate around 1%",https://www.reddit.com/r/personalfinance/comments/lslbr1/mortgage_amendment_arp_vs_interest_rate/,1614299449.0,2,2,0
+92,Is this a bad time to buy my first home?,"with interest rates rising and 'potential' market crash.
+
+Thoughts?",https://www.reddit.com/r/personalfinance/comments/lsiiiv/is_this_a_bad_time_to_buy_my_first_home/,1614291501.0,2,2,0
+93,Backdoor Roth IRA after Dec 31? Tax filing implications for tax year 2020?,"So I probably screwed this up. My wife and I file Married Jointly. Our MAGI is over $206,000.
+
+We both have Roth IRAs with Vanguard, and 2020 was our first year where our MAGI is over $206K. We did not make any Roth contributions in the 2020 calendar year as we knew we had to do a Backdoor Roth IRA. We both opened our own Trad IRA with Vanguard in 2020, but never contributed to it. Yeah it was on our list of things to do, but never got around to it. Either way, by Dec 31 2020, we both had $0 in those Trad IRA accounts. Come Feb 2021, before filing taxes, we figured we better do the Backdoor process. We both contributed $6000 into our Trad IRA accounts, waited the shortest amount of time possible, then converted both our entire accounts into our Roth IRA (like shown here [https://www.physicianonfire.com/backdoor/](https://www.physicianonfire.com/backdoor/)). 
+
+Now we're trying to file taxes with TurboTax online and I've come to realize that we may have missed the timing on this. We didn't receive a 1099-R from Vanguard. I figured it was because we did it after they send out all their tax forms. I called them up asking about it. The CSR explained that the although you can make Roth IRA contributions up to April 15, the Trad IRA - Roth Conversion is only counted in the calendar year. So essentially, we both made Roth contributions for tax year 2020, but the Trad IRA conversion can only be reported for tax year 2021. Which ultimately means, for tax year filing of 2020, we both made contributions to a Roth IRA that will be subject to penalty due to our MAGI. Does that sound right? Do we just pay the penalty and move on?",https://www.reddit.com/r/personalfinance/comments/lsl5yj/backdoor_roth_ira_after_dec_31_tax_filing/,1614298957.0,2,2,0
+94,Can I contribute to a Roth IRA for the year of 2020 if I worked all that year but am currently unemployed now?,"Can't seem to find a detailed answer to this question. I just opened a Roth IRA and want to contribute 12k right now into it - 6k for 2020 and 6k for 2021. 
+
+I worked all of 2020 but right now I am unemployed. Will I still be able to make the 12k contribution without any fees or penalties?",https://www.reddit.com/r/personalfinance/comments/lspfa4/can_i_contribute_to_a_roth_ira_for_the_year_of/,1614312165.0,1,1,0
+95,Requesting HSA investment suggestions,"My employer just changed HSA providers and I have $13,000 that I need to invest. The new HSA company does not provide investment services, so I can choose between TD Ameritrade and DEVENIR. Any suggestions on which one to choose and how to best divide up my portfolio? This is in addition to my pension fund and a Roth IRA that's tied up in a Vanguard retirement fund. I have at least 30 years until retirement.",https://www.reddit.com/r/personalfinance/comments/lspd3p/requesting_hsa_investment_suggestions/,1614311974.0,0,0,0
+96,Getting a Death Certificate for Inheritance,"Hi!
+
+I was wondering if anyone would know how to get a death certificate from a non-relative to receive inheritance money. A close aunt-like friend plans to leave me her savings (and does not want her sister to get the money, family troubles). We do not want to hire an executor because we don't want to lose the money (we have considered adult adoption). Does anyone know a way around this?
+
+&#x200B;
+
+Thanks!",https://www.reddit.com/r/personalfinance/comments/lspcxn/getting_a_death_certificate_for_inheritance/,1614311960.0,0,0,0
+97,Do not prepay hospital for delivery of baby,"TLDR: Do not pay the ""Expected out of pocket"" expense estimate the hospital sends you before your child's delivery - other related bills are processed faster and your prepayment isn't factored into your deductible/out-of-pocket until last step of billing process (at which point you've now overpaid).
+
+We followed the rules & paid the expected out of pocket a week in advance because I didn't want my wife being pestered with ""please put a credit card on file"" harassment while delivering our child. Big mistake for one reason - the billing process takes forever and you could end up floating thousands waiting for a refund. Your prepayment is not reflected in your insurance policy until the hospital bills insurance, insurance reviews claim & responds, hospital receives response and issues refund. All the while, smaller claims can be filed from other providers and are processed quickly, and then you're on the hook for the balance of those since insurance still thinks you have deductible/out-of-pocket portion left.
+
+I researched this in advance and didn't see any posts with this side of the story, so here it is.",https://www.reddit.com/r/personalfinance/comments/lsbr3b/do_not_prepay_hospital_for_delivery_of_baby/,1614273805.0,6,6,0
+98,Student loans over the original amount borrowed. Does this heavily impact my credit?,"I'm in the process of rebuilding my credit. I had some rough years of unemployment and I'm trying to make up for them now. I'm currently employed and making around 50-55k per year with 10k in savings. I'll be moving to a new city in May while keeping the same job. Living expenses will remain the same. I have 13 student loans taken out through my academic career all over the original loan amounts by the following amounts:
+
+$**120.79**
+
+$262.9.
+
+$89.39
+
+$121.14
+
+$98.19
+
+$277.35
+
+$196.49
+
+$975.82
+
+$207.69
+
+$1137.93
+
+$100.3
+
+$1303.62
+
+$142.13
+
+My question is, should I pay down these amounts now so that they are below the original amount owed? Or should I keep paying into savings or my acorns account until I get settled into the new city? They are all deferred now due to the covid forbearance and are not accruing interest. If I were to pay these down would this impact my credit greatly? Any information or advice would be very much appreciated. I'm hoping to get my finances in order and make the best moves financially for future financial stability.
+
+&#x200B;
+
+Thank you!",https://www.reddit.com/r/personalfinance/comments/lshxhw/student_loans_over_the_original_amount_borrowed/,1614289954.0,3,3,0
+99,Buying the Dip w ETFs or Mutual Funds,"Hi All-
+
+I keep trying to “buy the dip” but the market keeps going down. Should I continue buying and any good ETFs or mutual funds you’d recommend?",https://www.reddit.com/r/personalfinance/comments/lsp6la/buying_the_dip_w_etfs_or_mutual_funds/,1614311366.0,1,1,0
